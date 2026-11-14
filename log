@@ -1,0 +1,1700 @@
+[17:05:12] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:05:12] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:05:12] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[17:05:12] [main/INFO]: Forge Mod Loader version 7.99.40.1614 for Minecraft 1.7.10 loading
+[17:05:12] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at D:\.minecraft\runtime\jre-legacy\windows\jre-legacy
+[17:05:12] [main/INFO]: [AppEng] Core Init
+[17:05:12] [main/WARN]: The coremod codechicken.core.launch.CodeChickenCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:05:13] [main/INFO]: [codechicken.core.launch.DepLoader$DepLoadInst:checkExisting:436]: Warning: version of CodeChickenLib, 1.3.0 is newer than request 1.1.3.141
+[17:05:13] [main/INFO]: Loading tweaker forestry.shade.javacheck.Java7Checker from forestry_1.7.10-4.2.16.64.jar
+[17:05:13] [main/WARN]: The coremod codechicken.core.launch.DepLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:05:13] [main/WARN]: The coremod ic2.core.coremod.IC2core does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:05:13] [main/WARN]: The coremod mekanism.common.asm.LoadingHook does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:05:13] [main/INFO]: [HOOKLIB]  Obfuscated: true
+[17:05:13] [main/WARN]: The coremod mjaroslav.mcmods.mjutils.hook.MJUtilsHookLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:05:13] [main/WARN]: The coremod codechicken.nei.asm.NEICorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:05:13] [main/INFO]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.7.10_HD_U_E7.jar
+[17:05:13] [main/WARN]: The coremod thaumcraft.codechicken.core.launch.DepLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:05:13] [main/WARN]: The coremod thaumic.tinkerer.preloader.ThaumicTLoaderContainer does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:05:13] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:05:13] [main/INFO]: Loading tweak class name forestry.shade.javacheck.Java7Checker
+[17:05:13] [main/INFO]: Loading tweak class name optifine.OptiFineForgeTweaker
+[17:05:13] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[17:05:13] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:05:13] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:05:13] [main/INFO]: Calling tweak class optifine.OptiFineForgeTweaker
+[17:05:13] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[17:05:13] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: injectIntoClassLoader
+[17:05:13] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:221]: OptiFine ClassTransformer
+[17:05:13] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:221]: OptiFine ZIP file: D:\.minecraft\versions\hbm spais\mods\OptiFine_1.7.10_HD_U_E7.jar
+[17:05:13] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:05:14] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[17:05:14] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[17:05:14] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:05:14] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:05:14] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:05:14] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:05:14] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:05:14] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:05:14] [main/INFO]: Loaded library EJML-core-0.26.jar.
+[17:05:14] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:05:14] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:05:14] [main/INFO]: [mjaroslav.mcmods.mjutils.gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hook contatiner mjaroslav.mcmods.mjutils.gloomyfolken.hooklib.minecraft.SecondaryTransformerHook
+[17:05:14] [main/INFO]: Trying to load hooks configuration...
+[17:05:14] [main/INFO]: Disabled hooks: []
+[17:05:14] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:05:15] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:05:15] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:05:15] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:05:15] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:05:15] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:05:15] [main/INFO]: Calling tweak class forestry.shade.javacheck.Java7Checker
+[17:05:15] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[17:05:15] [main/INFO]: [mjaroslav.mcmods.mjutils.gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hook into class cpw.mods.fml.common.Loader
+[17:05:15] [main/INFO]: [mjaroslav.mcmods.mjutils.gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Successfully injected 1 hook
+[17:05:15] [main/INFO]: [mjaroslav.mcmods.mjutils.gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Methods dictionary loaded in 2 ms
+[17:05:15] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:05:15] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[17:05:15] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[17:05:15] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[17:05:15] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[17:05:15] [main/INFO]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class bjf net.minecraft.client.multiplayer.WorldClient
+[17:05:15] [main/INFO]: [xaero.map.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.client.multiplayer.WorldClient
+[17:05:15] [main/INFO]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraftforge.client.GuiIngameForge net.minecraftforge.client.GuiIngameForge
+[17:05:15] [main/INFO]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class yz net.minecraft.entity.player.EntityPlayer
+[17:05:15] [main/INFO]: [xaero.map.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.entity.player.EntityPlayer
+[17:05:15] [main/INFO]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class bjk net.minecraft.client.entity.EntityClientPlayerMP
+[17:05:15] [main/INFO]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class blg net.minecraft.client.entity.AbstractClientPlayer
+[17:05:15] [main/INFO]: [xaero.map.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.client.entity.AbstractClientPlayer
+[17:05:15] [main/INFO]: func_146977_a(Lnet/minecraft/inventory/Slot;)V - Transformed
+[17:05:15] [main/INFO]: func_146977_a_original(Lnet/minecraft/inventory/Slot;)V - New Method
+[17:05:15] [main/INFO]: func_146977_a(Lnet/minecraft/inventory/Slot;)V - Invoke Virtual
+[17:05:16] [main/INFO]: used the old auth tlauncher service
+[17:05:16] [main/INFO]: Setting user: Resteres
+[17:05:17] [main/INFO]: [mjaroslav.mcmods.mjutils.gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hook into class net.minecraft.entity.projectile.EntityFishHook
+[17:05:17] [main/INFO]: [mjaroslav.mcmods.mjutils.gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Successfully injected 2 hooks
+[17:05:18] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: ModLoader
+[17:05:18] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: LightCache
+[17:05:18] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: BlockCoord
+[17:05:18] [Client thread/INFO]: [mjaroslav.mcmods.mjutils.gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hook into class net.minecraftforge.common.ForgeHooks
+[17:05:18] [Client thread/INFO]: [mjaroslav.mcmods.mjutils.gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Successfully injected 1 hook
+[17:05:18] [Client thread/INFO]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class bjb net.minecraft.client.network.NetHandlerPlayClient
+[17:05:18] [Client thread/INFO]: [xaero.map.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.client.network.NetHandlerPlayClient
+[17:05:18] [Client thread/INFO]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class apx net.minecraft.world.chunk.Chunk
+[17:05:18] [Client thread/INFO]: [xaero.map.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.world.chunk.Chunk
+[17:05:18] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.Loader
+[17:05:18] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.ModContainer
+[17:05:18] [Client thread/INFO]: LWJGL Version: 2.9.1
+[17:05:19] [Client thread/INFO]: [OptiFine] 
+[17:05:19] [Client thread/INFO]: [OptiFine] OptiFine_1.7.10_HD_U_E7
+[17:05:19] [Client thread/INFO]: [OptiFine] Build: 20180404-111312
+[17:05:19] [Client thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[17:05:19] [Client thread/INFO]: [OptiFine] Java: 1.8.0_51, Oracle Corporation
+[17:05:19] [Client thread/INFO]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[17:05:19] [Client thread/INFO]: [OptiFine] LWJGL: 2.9.1
+[17:05:19] [Client thread/INFO]: [OptiFine] OpenGL: NVIDIA GeForce GTX 1660/PCIe/SSE2, version 4.6.0 NVIDIA 560.94, NVIDIA Corporation
+[17:05:19] [Client thread/INFO]: [OptiFine] OpenGL Version: 4.6.0
+[17:05:19] [Client thread/INFO]: [OptiFine] Maximum texture size: 32768x32768
+[17:05:19] [Thread-7/INFO]: [OptiFine] Checking for new version
+[17:05:19] [Client thread/INFO]: [Shaders] ShadersMod version: 2.4.12
+[17:05:19] [Client thread/INFO]: [Shaders] OpenGL Version: 4.6.0 NVIDIA 560.94
+[17:05:19] [Client thread/INFO]: [Shaders] Vendor:  NVIDIA Corporation
+[17:05:19] [Client thread/INFO]: [Shaders] Renderer: NVIDIA GeForce GTX 1660/PCIe/SSE2
+[17:05:19] [Client thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[17:05:19] [Client thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[17:05:19] [Client thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[17:05:19] [Client thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[17:05:19] [Client thread/INFO]: [Shaders] Load ShadersMod configuration.
+[17:05:19] [Client thread/INFO]: [Shaders] Save ShadersMod configuration.
+[17:05:19] [Client thread/INFO]: [Shaders] No shaderpack loaded.
+[17:05:19] [Thread-7/INFO]: [OptiFine] Version found: E7
+[17:05:20] [Client thread/INFO]: Forge Mod Loader has detected optifine OptiFine_1.7.10_HD_U_E7, enabling compatibility features
+[17:05:20] [Client thread/INFO]: [cpw.mods.fml.client.SplashProgress:start:188]: ---- Minecraft Crash Report ----
+// You should try our sister game, Minceraft!
+
+Time: 14.11.26 17:05
+Description: Loading screen debug info
+
+This is just a prompt for computer specs to be printed. THIS IS NOT A ERROR
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 127324616 bytes (121 MB) / 268435456 bytes (256 MB) up to 10502537216 bytes (10016 MB)
+	JVM Flags: 7 total; -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Xmx9989M
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 560.94' Renderer: 'NVIDIA GeForce GTX 1660/PCIe/SSE2'
+[17:05:20] [Client thread/INFO]: Attempting early MinecraftForge initialization
+[17:05:20] [Client thread/INFO]: MinecraftForge v10.13.4.1614 Initialized
+[17:05:20] [Client thread/INFO]: Replaced 183 ore recipies
+[17:05:20] [Client thread/INFO]: Completed early MinecraftForge initialization
+[17:05:21] [Client thread/INFO]: [AppEng] Core Init
+[17:05:21] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[17:05:21] [Client thread/INFO]: Searching D:\.minecraft\versions\hbm spais\mods for mods
+[17:05:21] [Client thread/INFO]: Also searching D:\.minecraft\versions\hbm spais\mods\1.7.10 for mods
+[17:05:28] [Client thread/WARN]: Mod Avaritia is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.13
+[17:05:29] [Client thread/WARN]: Mod ForbiddenMagic is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.7.10-0.575
+[17:05:53] [Client thread/WARN]: Mod ForgeMicroblock is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.1.2.331
+[17:05:53] [Client thread/WARN]: Mod ForgeMultipart is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.1.2.331
+[17:05:53] [Client thread/WARN]: Mod McMultipart is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.1.2.331
+[17:05:54] [Client thread/INFO]: Forge Mod Loader has identified 48 mods to load
+[17:05:57] [Client thread/INFO]: FML has found a non-mod file CodeChickenLib-1.3.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[17:05:57] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, appliedenergistics2-core, CodeChickenCore, NotEnoughItems, ThE-core, ThaumicTinkerer-preloader, xaerominimap_core, xaeroworldmap_core, appliedenergistics2, Automagy, Avaritia, BiblioCraft, DummyCore, ForbiddenMagic, Forestry, gravestone, gregtech, hbm, ic2additions, IC2, Mekanism, MekanismGenerators, mjutils, neresources, harvestcraft, simplerecipes, tcnodetracker, tc4tweak, Thaumcraft, thaumcraftneiplugin, thaumicdyes, thaumicbases, thaumicenergistics, ThaumicHorizons, thaumicinsurgence, ThaumicTinkerer, thaumores, tlauncher_custom_cape_skin, TWarden, Waila, XaeroMinimap, XaeroWorldMap, Baubles, ForgeMicroblock, ForgeMultipart, McMultipart] at CLIENT
+[17:05:57] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, appliedenergistics2-core, CodeChickenCore, NotEnoughItems, ThE-core, ThaumicTinkerer-preloader, xaerominimap_core, xaeroworldmap_core, appliedenergistics2, Automagy, Avaritia, BiblioCraft, DummyCore, ForbiddenMagic, Forestry, gravestone, gregtech, hbm, ic2additions, IC2, Mekanism, MekanismGenerators, mjutils, neresources, harvestcraft, simplerecipes, tcnodetracker, tc4tweak, Thaumcraft, thaumcraftneiplugin, thaumicdyes, thaumicbases, thaumicenergistics, ThaumicHorizons, thaumicinsurgence, ThaumicTinkerer, thaumores, tlauncher_custom_cape_skin, TWarden, Waila, XaeroMinimap, XaeroWorldMap, Baubles, ForgeMicroblock, ForgeMultipart, McMultipart] at SERVER
+[17:05:57] [Client thread/INFO]: Transforming class thaumcraft.common.Thaumcraft
+[17:05:57] [Client thread/INFO]: Transforming class thaumcraft.common.lib.research.ResearchManager
+[17:05:57] [Client thread/INFO]: Transforming Class (thaumcraft.client.renderers.entity.RenderGolemBase)
+[17:05:57] [Client thread/INFO]: Transforming class thaumcraft.client.renderers.tile.TileChestHungryRenderer
+[17:05:57] [Client thread/INFO]: Transforming class thaumcraft.client.renderers.tile.TileEldritchCapRenderer
+[17:05:57] [Client thread/INFO]: Transforming class thaumcraft.client.renderers.tile.TileEldritchObeliskRenderer
+[17:05:57] [Client thread/INFO]: Transforming class thaumcraft.client.renderers.tile.TileRunicMatrixRenderer
+[17:05:57] [Client thread/INFO]: Transforming class thaumcraft.client.renderers.tile.TileManaPodRenderer
+[17:05:57] [Client thread/INFO]: Transforming class thaumcraft.client.renderers.tile.TileNodeRenderer
+[17:05:57] [Client thread/INFO]: Transforming class thaumcraft.client.renderers.tile.TileNodeConverterRenderer
+[17:05:57] [Client thread/INFO]: Transforming class thaumcraft.client.renderers.tile.TileNodeStabilizerRenderer
+[17:05:57] [Client thread/INFO]: Transforming class thaumcraft.client.renderers.tile.TileThaumatoriumRenderer
+[17:05:57] [Client thread/INFO]: Transforming class thaumcraft.client.renderers.tile.TileAlchemyFurnaceAdvancedRenderer
+[17:05:57] [Client thread/INFO]: Transforming class thaumcraft.client.fx.beams.FXBeamPower
+[17:05:58] [Client thread/INFO]: Transforming class thaumcraft.common.blocks.BlockJar
+[17:05:58] [Client thread/INFO]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class bix net.minecraft.client.model.ModelRenderer
+[17:05:59] [Client thread/INFO]: Transforming Class (thaumcraft.api.aspects.Aspect)
+[17:05:59] [Client thread/INFO]: Transforming class thaumcraft.api.aspects.AspectList
+[17:05:59] [Client thread/INFO]: Transforming class thaumcraft.api.ThaumcraftApi
+[17:06:00] [Client thread/INFO]: Added configuration file for "mjutils".
+[17:06:00] [Client thread/INFO]: Looking for modules for "mjutils"
+[17:06:00] [Client thread/INFO]: Search finished, found 2 modules [ModuleMain, ModuleThaumcraft]
+[17:06:00] [Client thread/INFO]: Construction of "mjutils"
+[17:06:00] [Client thread/INFO]: Looking for configuration categories for "mjutils".
+[17:06:00] [Client thread/INFO]: Search finished, found 1 category.
+[17:06:00] [Client thread/INFO]: Transforming class thaumcraft.client.gui.GuiResearchTable
+[17:06:00] [Client thread/INFO]: Transforming class thaumcraft.client.gui.GuiResearchRecipe
+[17:06:00] [Client thread/INFO]: Transforming Class (thaumcraft.common.entities.golems.ItemGolemPlacer)
+[17:06:00] [Client thread/INFO]: Transforming Class (thaumcraft.common.entities.golems.ItemGolemBell)
+[17:06:00] [Client thread/INFO]: Transforming class thaumcraft.common.entities.golems.ItemGolemBell
+[17:06:00] [Client thread/INFO]: Transforming class thaumcraft.common.items.wands.ItemWandCasting
+[17:06:00] [Client thread/INFO]: Transforming class thaumcraft.api.crafting.InfusionRecipe
+[17:06:00] [Client thread/INFO]: Transforming class com.kentington.thaumichorizons.client.renderer.tile.TileEtherealShardRender
+[17:06:00] [Client thread/INFO]: Added configuration file for "thaumores".
+[17:06:00] [Client thread/INFO]: Looking for modules for "thaumores"
+[17:06:00] [Client thread/INFO]: Search finished, found 5 modules [ModuleBlocks, ModuleIntegrations, ModuleItems, ModuleWorld, ModuleThaumcraft]
+[17:06:00] [Client thread/INFO]: Construction of "thaumores"
+[17:06:00] [Client thread/INFO]: Looking for configuration categories for "thaumores".
+[17:06:00] [Client thread/INFO]: Search finished, found 1 category.
+[17:06:00] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Automagy, FMLFileResourcePack:Avaritia, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:DummyCore, FMLFileResourcePack:Forbidden Magic, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:Gravestone, FMLFileResourcePack:GregTech, FMLFileResourcePack:NTM: Space, FMLFileResourcePack:IC2 Additions, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Mekanism, FMLFileResourcePack:MekanismGenerators, FMLFileResourcePack:MJUtils, FMLFileResourcePack:Not Enough Resources, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:Pam's Simple Recipes, FMLFileResourcePack:TC Node Tracker, FMLFileResourcePack:TC4 Tweak, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Thaumcraft NEI Plugin, FMLFileResourcePack:Thaumic Dyes, FMLFileResourcePack:Thaumic Bases, FMLFileResourcePack:Thaumic Energistics, FMLFileResourcePack:ThaumicHorizons, FMLFileResourcePack:Thaumic Insurgence, FMLFileResourcePack:Thaumic Tinkerer, FMLFileResourcePack:ThaumOres, FMLFileResourcePack:TLSkinCape, FMLFileResourcePack:Thaumic Warden, FMLFileResourcePack:Waila, FMLFileResourcePack:Xaero's Minimap, FMLFileResourcePack:Xaero's World Map, FMLFileResourcePack:Baubles, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin
+[17:06:01] [Client thread/INFO]: Processing ObjectHolder annotations
+[17:06:01] [Client thread/INFO]: Found 419 ObjectHolder annotations
+[17:06:01] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[17:06:01] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[17:06:01] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[17:06:02] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+[17:06:02] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.gson.Gson.fromJson(Gson.java:815)
+[17:06:02] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.gson.Gson.fromJson(Gson.java:768)
+[17:06:02] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.gson.Gson.fromJson(Gson.java:717)
+[17:06:02] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.gson.Gson.fromJson(Gson.java:689)
+[17:06:02] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraftforge.common.ForgeVersion$1.run(ForgeVersion.java:94)
+[17:06:02] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+[17:06:02] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:374)
+[17:06:02] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183)
+[17:06:02] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145)
+[17:06:02] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.gson.Gson.fromJson(Gson.java:803)
+[17:06:02] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	... 4 more
+[17:06:02] [Client thread/INFO]: Pre Initialization ( started )
+[17:06:02] [Client thread/INFO]: func_145841_b(Lnet/minecraft/nbt/NBTTagCompound;)V - Transformed
+[17:06:02] [Client thread/INFO]: func_145839_a(Lnet/minecraft/nbt/NBTTagCompound;)V - Transformed
+[17:06:02] [Client thread/INFO]: Allowing Interface ic2.api.energy.tile.IEnergySink from appeng/tile/powersink/IC2 because IC2 integration is enabled.
+[17:06:02] [Client thread/INFO]: Removing Interface Reika.RotaryCraft.API.Power.AdvancedShaftPowerReceiver from appeng/tile/powersink/RotaryCraft because RotaryCraft integration is disabled.
+[17:06:02] [Client thread/INFO]: Removing Interface Reika.RotaryCraft.API.Interfaces.Transducerable from appeng/tile/powersink/RotaryCraft because RotaryCraft integration is disabled.
+[17:06:02] [Client thread/INFO]: Removing Method Tick_RotaryCraft from appeng/tile/powersink/RotaryCraft because RotaryCraft integration is disabled.
+[17:06:02] [Client thread/INFO]: Updated appeng/tile/powersink/RotaryCraft
+[17:06:02] [Client thread/INFO]: Allowing Interface cofh.api.energy.IEnergyReceiver from appeng/tile/powersink/RedstoneFlux because RF integration is enabled.
+[17:06:02] [Client thread/INFO]: Allowing Interface mekanism.api.energy.IStrictEnergyAcceptor from appeng/tile/powersink/MekJoules because Mekanism integration is enabled.
+[17:06:02] [Client thread/INFO]: Removing Interface powercrystals.minefactoryreloaded.api.rednet.connectivity.IRedNetConnection from appeng/block/networking/BlockCableBus because MFR integration is disabled.
+[17:06:02] [Client thread/INFO]: Removing Method getConnectionType from appeng/block/networking/BlockCableBus because MFR integration is disabled.
+[17:06:02] [Client thread/INFO]: Updated appeng/block/networking/BlockCableBus
+[17:06:02] [Client thread/INFO]: Removing Interface buildcraft.api.tools.IToolWrench from appeng/items/tools/quartz/ToolQuartzWrench because BuildCraftCore integration is disabled.
+[17:06:02] [Client thread/INFO]: Updated appeng/items/tools/quartz/ToolQuartzWrench
+[17:06:02] [Client thread/INFO]: Allowing Interface ic2.api.item.ISpecialElectricItem from appeng/items/tools/powered/powersink/IC2 because IC2 integration is enabled.
+[17:06:02] [Client thread/INFO]: Allowing Interface ic2.api.item.IElectricItemManager from appeng/items/tools/powered/powersink/IC2 because IC2 integration is enabled.
+[17:06:02] [Client thread/INFO]: Allowing Method getManager from appeng/items/tools/powered/powersink/IC2 because IC2 integration is enabled.
+[17:06:02] [Client thread/INFO]: Allowing Interface cofh.api.energy.IEnergyContainerItem from appeng/items/tools/powered/powersink/RedstoneFlux because RFItem integration is enabled.
+[17:06:02] [Client thread/INFO]: Removing Interface buildcraft.api.tools.IToolWrench from appeng/items/tools/ToolNetworkTool because BuildCraftCore integration is disabled.
+[17:06:02] [Client thread/INFO]: Updated appeng/items/tools/ToolNetworkTool
+[17:06:02] [Client thread/INFO]: Removing Interface buildcraft.api.transport.IPipeConnection from appeng/parts/misc/PartStorageBus because BuildCraftTransport integration is disabled.
+[17:06:02] [Client thread/INFO]: Removing Method overridePipeConnection from appeng/parts/misc/PartStorageBus because BuildCraftTransport integration is disabled.
+[17:06:02] [Client thread/INFO]: Updated appeng/parts/misc/PartStorageBus
+[17:06:02] [Client thread/INFO]: Removing Interface buildcraft.api.transport.IPipeConnection from appeng/parts/p2p/PartP2PItems because BuildCraftTransport integration is disabled.
+[17:06:02] [Client thread/INFO]: Removing Method overridePipeConnection from appeng/parts/p2p/PartP2PItems because BuildCraftTransport integration is disabled.
+[17:06:02] [Client thread/INFO]: Updated appeng/parts/p2p/PartP2PItems
+[17:06:02] [Client thread/INFO]: Allowing Interface ic2.api.energy.tile.IEnergySink from appeng/parts/p2p/PartP2PIC2Power because IC2 integration is enabled.
+[17:06:02] [Client thread/INFO]: Allowing Interface ic2.api.energy.tile.IEnergySource from appeng/parts/p2p/PartP2PIC2Power because IC2 integration is enabled.
+[17:06:02] [Client thread/INFO]: Allowing Interface cofh.api.energy.IEnergyReceiver from appeng/parts/p2p/PartP2PRFPower because RF integration is enabled.
+[17:06:02] [Client thread/INFO]: Removing Interface li.cil.oc.api.network.Environment from appeng/parts/p2p/PartP2POpenComputers because OpenComputers integration is disabled.
+[17:06:02] [Client thread/INFO]: Removing Interface li.cil.oc.api.network.SidedEnvironment from appeng/parts/p2p/PartP2POpenComputers because OpenComputers integration is disabled.
+[17:06:02] [Client thread/INFO]: Updated appeng/parts/p2p/PartP2POpenComputers
+[17:06:02] [Client thread/INFO]: Removing Interface pneumaticCraft.api.tileentity.ISidedPneumaticMachine from appeng/parts/p2p/PartP2PPressure because PneumaticCraft integration is disabled.
+[17:06:02] [Client thread/INFO]: Updated appeng/parts/p2p/PartP2PPressure
+[17:06:02] [Client thread/INFO]: Starting AE2 VersionChecker
+[17:06:02] [Client thread/INFO]: Pre Initialization ( ended after 794ms )
+[17:06:02] [AE2 VersionChecker/INFO]: Last check was just recently.
+[17:06:02] [AE2 VersionChecker/INFO]: Stopping AE2 VersionChecker
+[17:06:03] [Client thread/INFO]: Transforming class thaumcraft.common.lib.network.playerdata.PacketAspectCombinationToServer
+[17:06:03] [Client thread/INFO]: Transforming class thaumcraft.common.lib.network.playerdata.PacketPlayerCompleteToServer
+[17:06:03] [Client thread/INFO]: Transforming class thaumcraft.client.fx.other.FXSonic
+[17:06:03] [Client thread/INFO]: Transforming class thaumcraft.common.lib.research.ScanManager
+[17:06:03] [Client thread/INFO]: Transforming class thaumcraft.common.blocks.BlockFluxGas
+[17:06:03] [Client thread/INFO]: Transforming class thaumcraft.common.blocks.BlockMagicalLog
+[17:06:03] [Client thread/INFO]: Transforming class thaumcraft.common.blocks.BlockMagicalLeaves
+[17:06:03] [Client thread/INFO]: Transforming class thaumcraft.common.blocks.BlockMetalDevice
+[17:06:03] [Client thread/INFO]: Transforming class thaumcraft.api.visnet.TileVisNode
+[17:06:03] [Client thread/INFO]: Transforming class thaumcraft.common.tiles.TileVisRelay
+[17:06:03] [Client thread/INFO]: Transforming class thaumcraft.common.tiles.TileMagicWorkbench
+[17:06:03] [Client thread/INFO]: Transforming class thaumcraft.common.tiles.TileChestHungry
+[17:06:03] [Client thread/INFO]: Transforming class thaumcraft.common.tiles.TileJarFillable
+[17:06:03] [Client thread/INFO]: Transforming class thaumcraft.common.blocks.BlockAiry
+[17:06:03] [Client thread/INFO]: Transforming class thaumcraft.common.tiles.TileInfusionMatrix
+[17:06:03] [Client thread/INFO]: Transforming class thaumcraft.common.tiles.TileTube
+[17:06:03] [Client thread/INFO]: Transforming class thaumcraft.common.tiles.TileHole
+[17:06:03] [Client thread/INFO]: Transforming class thaumcraft.common.entities.projectile.EntityShockOrb
+[17:06:03] [Client thread/INFO]: Transforming class thaumcraft.common.items.ItemEssence
+[17:06:03] [Client thread/INFO]: Transforming class thaumcraft.common.items.equipment.ItemElementalShovel
+[17:06:03] [Client thread/INFO]: Transforming Class (thaumcraft.common.entities.golems.EntityGolemBase)
+[17:06:03] [Client thread/INFO]: Transforming class thaumcraft.common.entities.golems.EntityGolemBase
+[17:06:04] [Client thread/INFO]: [mjaroslav.mcmods.mjutils.gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hook into class net.minecraft.client.multiplayer.PlayerControllerMP
+[17:06:04] [Client thread/INFO]: [mjaroslav.mcmods.mjutils.gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Successfully injected 1 hook
+[17:06:07] [Client thread/INFO]: Recreating all gamemode definitions from the defaults. This may be caused by an upgrade
+[17:06:07] [Client thread/INFO]: Module BuildCraft 6 Fuels Plugin failed to load: Compatible BuildCraftAPI|fuels version not found
+[17:06:07] [Client thread/INFO]: Module BuildCraft 6 Recipes Plugin failed to load: Compatible BuildCraftAPI|recipes version not found
+[17:06:07] [Client thread/INFO]: Module BuildCraft 6 Statements Plugin failed to load: Compatible BuildCraftAPI|statements version not found
+[17:06:07] [Client thread/INFO]: Module BuildCraft 6 Transport Plugin failed to load: BuildCraft|Transport not found
+[17:06:07] [Client thread/INFO]: Module AgriCraft Plugin failed to load: AgriCraft not found
+[17:06:07] [Client thread/INFO]: Module BiomesOPlenty Plugin failed to load: BiomesOPlenty not found
+[17:06:07] [Client thread/INFO]: Module Chisel Plugin failed to load: Chisel not found
+[17:06:07] [Client thread/INFO]: Module EnderIO Plugin failed to load: EnderIO not found
+[17:06:07] [Client thread/INFO]: Module Erebus Plugin failed to load: Erebus not found
+[17:06:07] [Client thread/INFO]: Module ExtraUtilities Plugin failed to load: ExtraUtilities not found
+[17:06:07] [Client thread/INFO]: Module Growthcraft Plugin failed to load: GrowthCraft not found
+[17:06:07] [Client thread/INFO]: Module ImmersiveEngineering Plugin failed to load: Immersive Engineering not found
+[17:06:07] [Client thread/INFO]: Module MagicalCrops Plugin failed to load: Magical Crops not found
+[17:06:07] [Client thread/INFO]: Module MineFactoryReloaded Plugin failed to load: MineFactoryReloaded not found
+[17:06:07] [Client thread/INFO]: Module Natura Plugin failed to load: Natura not found
+[17:06:07] [Client thread/INFO]: Module PlantMegaPack Plugin failed to load: Plant Mega Pack not found
+[17:06:07] [Client thread/INFO]: Module RotaryCraft Plugin failed to load: RotaryCraft not found
+[17:06:07] [Client thread/INFO]: Module Witchery Plugin failed to load: Witchery not found
+[17:06:07] [Client thread/INFO]: [ic2.api.item.IC2Items:getItem:36]: IC2 API: Call getItem failed for compressedPlantBall
+[17:06:07] [Client thread/INFO]: [ic2.api.item.IC2Items:getItem:36]: IC2 API: Call getItem failed for matter
+[17:06:09] [Client thread/INFO]: [ic2.api.item.IC2Items:getItem:36]: IC2 API: Call getItem failed for emptyCell
+[17:06:09] [Client thread/INFO]: [ic2.api.item.IC2Items:getItem:36]: IC2 API: Call getItem failed for cellEmpty
+[17:06:09] [Client thread/INFO]: [ic2.api.item.IC2Items:getItem:36]: IC2 API: Call getItem failed for cellWater
+[17:06:09] [Client thread/INFO]: [ic2.api.item.IC2Items:getItem:36]: IC2 API: Call getItem failed for cellLava
+[17:06:09] [Client thread/INFO]: [ic2.api.item.IC2Items:getItem:36]: IC2 API: Call getItem failed for cellOxygen
+[17:06:09] [Client thread/INFO]: [ic2.api.item.IC2Items:getItem:36]: IC2 API: Call getItem failed for cellAir
+[17:06:09] [Client thread/INFO]: [ic2.api.item.IC2Items:getItem:36]: IC2 API: Call getItem failed for emptyFuelCan
+[17:06:09] [Client thread/INFO]: [ic2.api.item.IC2Items:getItem:36]: IC2 API: Call getItem failed for fuelCanEmpty
+[17:06:09] [Client thread/INFO]: [ic2.api.item.IC2Items:getItem:36]: IC2 API: Call getItem failed for fuelCan
+[17:06:09] [Client thread/INFO]: [ic2.api.item.IC2Items:getItem:36]: IC2 API: Call getItem failed for filledFuelCan
+[17:06:09] [Client thread/INFO]: [ic2.api.item.IC2Items:getItem:36]: IC2 API: Call getItem failed for compressedPlantBall
+[17:06:10] [Client thread/INFO]: [gregtech.GT_Mod:onPreLoad:335]: preReader
+[17:06:10] [Client thread/INFO]: [gregtech.GT_Mod:onPreLoad:401]: reenableMetaItems
+[17:06:10] [Client thread/INFO]: Transforming class thaumcraft.common.lib.crafting.ThaumcraftCraftingManager
+[17:06:13] [Client thread/INFO]: Let us celebrate the fact that the logger finally works again!
+[17:06:28] [Client thread/INFO]: [QMAW] Reloading manual...
+[17:06:28] [Client thread/INFO]: [QMAW] Dissecting jar HBM-NTM-.1.0.27_X5645_H261.jar
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual fluids/crude_oil.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual fusion/boiler.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual fusion/breeder.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual fusion/collector.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual fusion/coupler.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual fusion/fusionreactor.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual fusion/klystron.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual fusion/mhdt.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual fusion/torus.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual guide/oil.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual guide/oil1.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual guide/oil2.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual guide/oil3.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/acidizer.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/anvil.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/arc_welder.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/ashpit.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/assembler.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/boiler.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/centrifuge.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/chemplant.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/coker.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/comboven.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/compressor.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/condenser.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/crackingtower.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/derrick.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/dieselgen.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/difurnace.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/electricheater.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/firebox.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/fracker.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/fractioning.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/heatexchanger.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/heatingoven.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/heatsource.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/ice.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/mixer.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/oilburner.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/press.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/pumpjack.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/pyrooven.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/refinery.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/rocket_launch_pad.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/rotaryfurnace.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/shredder.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/steamengine.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/steelfurnace.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/stirling.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/turbofan.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/vehicle_assembly_base.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/votv_drive.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual machine/woodburner.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/alloy.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/aluminium.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/arsenic.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/arsenic_bronze.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/bakelite.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/bismuth.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/bismuth_bronze.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/borax.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/boron.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/brine.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/bscco.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/cadmium.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/cadmium_steel.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/cft.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/cinnabar.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/cobalt.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/coke.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/copper.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/densewire.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/desh.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/ferrouranium.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/graphite.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/gunmetal.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/hss.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/latex.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/lead.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/mingrade.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/neptunium.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/nickel.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/plutonium-238.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/plutonium-239.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/plutonium-240.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/plutonium-241.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/plutonium-rg.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/plutonium.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/polonium.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/polymer.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/radium.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/rareearth.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/rubber.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/silicon.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/sodium.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/solidfuel.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/stainless.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/steel.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/sulfur.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/tantalium.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/technetium.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/technetium_steel.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/thorium.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/uranium-233.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/uranium-235.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/uranium-238.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/uranium.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/weaponsteel.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual material/zinc.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual pa/beamline.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual pa/coil.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual pa/detector.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual pa/dipole.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual pa/particleaccelerator.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual pa/pastepbystep.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual pa/quadrupole.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual pa/rfc.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual pa/source.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual rbmk/absorber.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual rbmk/autoloader.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual rbmk/blank.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual rbmk/boiler.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual rbmk/console.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual rbmk/controlauto.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual rbmk/controlrod.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual rbmk/cooler.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual rbmk/crane.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual rbmk/heater.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual rbmk/loader.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual rbmk/moderator.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual rbmk/reflector.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual rbmk/rod.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual rbmk/storage.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual ror/redstoneoverradio.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual ror/rorcontroller.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual ror/rorcounter.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual ror/rorlogic.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual ror/rorreader.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual ror/rorreceiver.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual ror/rortransmitter.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual weapon/ap.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual weapon/buckshot.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual weapon/buckshotmagnum.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual weapon/buckshotsharpnel.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual weapon/demo.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual weapon/du.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual weapon/express.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual weapon/flechettes.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual weapon/fmj.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual weapon/grenade.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual weapon/he.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual weapon/heat.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual weapon/incendiary.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual weapon/jhp.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual weapon/muke.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual weapon/powder.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual weapon/slug.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual weapon/softpoint.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual weapon/star.json
+[17:06:28] [Client thread/INFO]: [QMAW] Found manual weapon/wp.json
+[17:06:28] [Client thread/INFO]: [QMAW] Loaded 160 manual entries! (141ms)
+[17:06:34] [Client thread/INFO]: Kerbin launch cost: 10410.649271519858
+[17:06:34] [Client thread/INFO]: Eve launch cost: 1.7976931348623157E308
+[17:06:34] [Client thread/INFO]: Duna launch cost: 1415.540317679505
+[17:06:34] [Client thread/INFO]: Mun launch cost: 702.114265581087
+[17:06:34] [Client thread/INFO]: Minmus launch cost: 182.57591073479784
+[17:06:34] [Client thread/INFO]: Ike launch cost: 434.5172351487266
+[17:06:34] [Client thread/INFO]: Kerbin -> Eve cost: 2426.5806736761347 - should be: 2450
+[17:06:34] [Client thread/INFO]: Kerbin -> Duna cost: 1668.6843246049402 - should be: 1690
+[17:06:34] [Client thread/INFO]: Kerbin -> Ike cost: 1560.5500860121851 - should be: 1540
+[17:06:34] [Client thread/INFO]: Eve -> Duna cost: 2731.4351918846555
+[17:06:34] [Client thread/INFO]: Kerbin -> Mun cost: 1127.740111244644 - should be: 1170
+[17:06:34] [Client thread/INFO]: Kerbin -> Minmus cost: 1073.4274103144783 - should be: 1090
+[17:06:34] [Client thread/INFO]: Mun -> Kerbin cost: 1127.740111244644 - should be: 1170
+[17:06:34] [Client thread/INFO]: Minmus -> Kerbin cost: 1073.4274103144783 - should be: 1090
+[17:06:34] [Client thread/INFO]: Minmus -> Ike cost: 1383.255292202235
+[17:06:34] [Client thread/INFO]: Kerbin orbital period: 426.02789396232976 - should be: 426
+[17:06:34] [Client thread/INFO]: Eve orbital period: 261.90598078636816 - should be: 261
+[17:06:34] [Client thread/INFO]: Mun orbital period: 6.434060923004596 - should be: 6
+[17:06:34] [Client thread/INFO]: 1 dyson swarm members produces: 12.16kHE/s
+[17:06:34] [Client thread/INFO]: 2 dyson swarm members produces: 12.66kHE/s
+[17:06:34] [Client thread/INFO]: 4 dyson swarm members produces: 13.72kHE/s
+[17:06:34] [Client thread/INFO]: 8 dyson swarm members produces: 16.12kHE/s
+[17:06:34] [Client thread/INFO]: 16 dyson swarm members produces: 22.22kHE/s
+[17:06:34] [Client thread/INFO]: 32 dyson swarm members produces: 41.74kHE/s
+[17:06:34] [Client thread/INFO]: 64 dyson swarm members produces: 141.88kHE/s
+[17:06:34] [Client thread/INFO]: 128 dyson swarm members produces: 1.42MHE/s
+[17:06:34] [Client thread/INFO]: 256 dyson swarm members produces: 83.87MHE/s
+[17:06:34] [Client thread/INFO]: 512 dyson swarm members produces: 51.26GHE/s
+[17:06:34] [Client thread/INFO]: 1024 dyson swarm members produces: 150.45THE/s
+[17:06:34] [Client thread/INFO]: 2048 dyson swarm members produces: 85.64PHE/s
+[17:06:34] [Client thread/INFO]: 4096 dyson swarm members produces: 773.08PHE/s
+[17:06:34] [Client thread/INFO]: Re-registration for dustCoal to dustAnyCoalCoke
+[17:06:34] [Client thread/INFO]: Re-registration for ingotTcAlloy to ingotAnyResistantAlloy
+[17:06:34] [Client thread/INFO]: Re-registration for dustTcAlloy to dustAnyResistantAlloy
+[17:06:34] [Client thread/INFO]: Re-registration for blockTcAlloy to blockAnyResistantAlloy
+[17:06:34] [Client thread/INFO]: Re-registration for ingotCdAlloy to ingotAnyResistantAlloy
+[17:06:34] [Client thread/INFO]: Re-registration for blockCdAlloy to blockAnyResistantAlloy
+[17:06:34] [Client thread/INFO]: Re-registration for ingotBismuthBronze to ingotAnyBismoidBronze
+[17:06:34] [Client thread/INFO]: Re-registration for ingotArsenicBronze to ingotAnyBismoidBronze
+[17:06:34] [Client thread/INFO]: Re-registration for ingotPolymer to ingotAnyPlastic
+[17:06:34] [Client thread/INFO]: Re-registration for dustPolymer to dustAnyPlastic
+[17:06:34] [Client thread/INFO]: Re-registration for blockPolymer to blockAnyPlastic
+[17:06:34] [Client thread/INFO]: Re-registration for ingotBakelite to ingotAnyPlastic
+[17:06:34] [Client thread/INFO]: Re-registration for dustBakelite to dustAnyPlastic
+[17:06:34] [Client thread/INFO]: Re-registration for blockBakelite to blockAnyPlastic
+[17:06:34] [Client thread/INFO]: Re-registration for ingotLatex to ingotAnyRubber
+[17:06:34] [Client thread/INFO]: Re-registration for ingotRubber to ingotAnyRubber
+[17:06:34] [Client thread/INFO]: Re-registration for ingotPolycarbonate to ingotAnyHardPlastic
+[17:06:34] [Client thread/INFO]: Re-registration for ingotPVC to ingotAnyHardPlastic
+[17:06:34] [Client thread/INFO]: Re-registration for dustAnyCoke to dustAnyCoalCoke
+[17:06:34] [Client thread/INFO]: Re-registration for dustCoke to dustAnyCoalCoke
+[17:06:34] [Client thread/INFO]: Re-registration for dustAnyCoke to dustAnyCoalCoke
+[17:06:34] [Client thread/INFO]: Re-registration for dustCoke to dustAnyCoalCoke
+[17:06:34] [Client thread/INFO]: Re-registration for dustAnyCoke to dustAnyCoalCoke
+[17:06:34] [Client thread/INFO]: Re-registration for dustCoke to dustAnyCoalCoke
+[17:06:34] [Client thread/INFO]: Re-registration for oiltar to anyTar
+[17:06:34] [Client thread/INFO]: Re-registration for cracktar to anyTar
+[17:06:34] [Client thread/INFO]: Re-registration for coaltar to anyTar
+[17:06:34] [Client thread/INFO]: Re-registration for woodtar to anyTar
+[17:06:34] [Client thread/INFO]: Re-registration for plateTripleTcAlloy to plateTripleAnyResistantAlloy
+[17:06:34] [Client thread/INFO]: Re-registration for plateSextupleTcAlloy to plateSextupleAnyResistantAlloy
+[17:06:34] [Client thread/INFO]: Re-registration for barrelLightTcAlloy to barrelLightAnyResistantAlloy
+[17:06:34] [Client thread/INFO]: Re-registration for barrelHeavyTcAlloy to barrelHeavyAnyResistantAlloy
+[17:06:34] [Client thread/INFO]: Re-registration for receiverLightTcAlloy to receiverLightAnyResistantAlloy
+[17:06:34] [Client thread/INFO]: Re-registration for receiverHeavyTcAlloy to receiverHeavyAnyResistantAlloy
+[17:06:34] [Client thread/INFO]: Re-registration for plateTripleCdAlloy to plateTripleAnyResistantAlloy
+[17:06:34] [Client thread/INFO]: Re-registration for plateSextupleCdAlloy to plateSextupleAnyResistantAlloy
+[17:06:34] [Client thread/INFO]: Re-registration for barrelLightCdAlloy to barrelLightAnyResistantAlloy
+[17:06:34] [Client thread/INFO]: Re-registration for barrelHeavyCdAlloy to barrelHeavyAnyResistantAlloy
+[17:06:34] [Client thread/INFO]: Re-registration for receiverLightCdAlloy to receiverLightAnyResistantAlloy
+[17:06:34] [Client thread/INFO]: Re-registration for receiverHeavyCdAlloy to receiverHeavyAnyResistantAlloy
+[17:06:34] [Client thread/INFO]: Re-registration for plateTripleBismuthBronze to plateTripleAnyBismoidBronze
+[17:06:34] [Client thread/INFO]: Re-registration for barrelLightBismuthBronze to barrelLightAnyBismoidBronze
+[17:06:34] [Client thread/INFO]: Re-registration for receiverLightBismuthBronze to receiverLightAnyBismoidBronze
+[17:06:34] [Client thread/INFO]: Re-registration for receiverHeavyBismuthBronze to receiverHeavyAnyBismoidBronze
+[17:06:34] [Client thread/INFO]: Re-registration for plateTripleArsenicBronze to plateTripleAnyBismoidBronze
+[17:06:34] [Client thread/INFO]: Re-registration for barrelLightArsenicBronze to barrelLightAnyBismoidBronze
+[17:06:34] [Client thread/INFO]: Re-registration for receiverLightArsenicBronze to receiverLightAnyBismoidBronze
+[17:06:34] [Client thread/INFO]: Re-registration for receiverHeavyArsenicBronze to receiverHeavyAnyBismoidBronze
+[17:06:34] [Client thread/INFO]: Re-registration for stockPolymer to stockAnyPlastic
+[17:06:34] [Client thread/INFO]: Re-registration for gripPolymer to gripAnyPlastic
+[17:06:34] [Client thread/INFO]: Re-registration for stockBakelite to stockAnyPlastic
+[17:06:34] [Client thread/INFO]: Re-registration for gripBakelite to gripAnyPlastic
+[17:06:34] [Client thread/INFO]: Re-registration for stockPolycarbonate to stockAnyHardPlastic
+[17:06:34] [Client thread/INFO]: Re-registration for gripPolycarbonate to gripAnyHardPlastic
+[17:06:34] [Client thread/INFO]: Re-registration for stockPVC to stockAnyHardPlastic
+[17:06:34] [Client thread/INFO]: Re-registration for gripPVC to gripAnyHardPlastic
+[17:06:34] [NTM Version Checker/INFO]: Searching for new versions...
+[17:06:34] [NTM Version Checker/INFO]: Found version 1.0.27 BETA (5852)
+[17:06:34] [NTM Version Checker/INFO]: Version checker ended.
+[17:06:35] [Client thread/INFO]: Pre initialization of "mjutils"
+[17:06:35] [Client thread/INFO]: Loading configs..
+[17:06:35] [Client thread/INFO]: Updating ModMetaData...
+[17:06:35] [Client thread/INFO]: Registering Network Messages...
+[17:06:35] [Client thread/INFO]: Requesting Sync...
+[17:06:35] [Client thread/INFO]: Registering Events...
+[17:06:35] [Client thread/INFO]: Transforming class thaumcraft.client.gui.GuiResearchBrowser
+[17:06:35] [Client thread/INFO]: Starting (PreInit)
+[17:06:36] [Client thread/INFO]: Finished (PreInit in 182ms)
+[17:06:36] [Client thread/INFO]: Preinit started
+[17:06:36] [Client thread/INFO]: Preinit completed
+[17:06:36] [Client thread/INFO]: Pre initialization of "thaumores"
+[17:06:36] [Client thread/INFO]: Applying holder lookups
+[17:06:36] [Client thread/INFO]: Holder lookups applied
+[17:06:36] [Client thread/INFO]: Injecting itemstacks
+[17:06:36] [Client thread/INFO]: Itemstack injection complete
+[17:06:36] [Client thread/INFO]: [OptiFine] *** Reloading textures ***
+[17:06:36] [Client thread/INFO]: [OptiFine] Resource packs: Default
+[17:06:37] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[17:06:37] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
+[17:06:37] [Thread-12/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
+[17:06:37] [Thread-12/INFO]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[17:06:37] [Thread-12/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
+[17:06:37] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[17:06:37] [Sound Library Loader/INFO]: Sound engine started
+[17:06:39] [Client thread/WARN]: File hbm:sounds/clap.ogg does not exist, cannot add it to event hbm:fm.clap
+[17:06:39] [Client thread/WARN]: File hbm:sounds/mug.ogg does not exist, cannot add it to event hbm:fm.mug
+[17:06:39] [Client thread/WARN]: File hbm:sounds/sample.ogg does not exist, cannot add it to event hbm:fm.sample
+[17:06:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_pane_white.properties
+[17:06:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_white.properties
+[17:06:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_pane_purple.properties
+[17:06:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_purple.properties
+[17:06:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_blue.properties
+[17:06:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_pane_blue.properties
+[17:06:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_brown.properties
+[17:06:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_pane_brown.properties
+[17:06:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_green.properties
+[17:06:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_pane_green.properties
+[17:06:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_pane_red.properties
+[17:06:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_red.properties
+[17:06:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_black.properties
+[17:06:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_pane_black.properties
+[17:06:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_orange.properties
+[17:06:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_pane_orange.properties
+[17:06:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_magenta.properties
+[17:06:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_pane_magenta.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_light_blue.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_pane_light_blue.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_pane_yellow.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_yellow.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_lime.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_pane_lime.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pane_pink.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pink.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_gray.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_pane_gray.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_pane_silver.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_silver.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_cyan.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_pane_cyan.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/bookshelf.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glass.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glasspane.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/sandstone.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] Multipass connected textures: false
+[17:06:40] [Client thread/INFO]: [OptiFine] Loading texture map: textures/blocks
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_pane_white.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_white.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_pane_purple.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_purple.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_blue.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_pane_blue.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_brown.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_pane_brown.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_green.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_pane_green.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_pane_red.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_red.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_black.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_pane_black.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_orange.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_pane_orange.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_magenta.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_pane_magenta.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_light_blue.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_pane_light_blue.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_pane_yellow.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_yellow.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_lime.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_pane_lime.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pane_pink.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pink.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_gray.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_pane_gray.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_pane_silver.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_silver.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_cyan.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_pane_cyan.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/bookshelf.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glass.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glasspane.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/sandstone.properties
+[17:06:40] [Client thread/INFO]: [OptiFine] Multipass connected textures: false
+[17:06:40] [Client thread/INFO]: [OptiFine] Texture size: textures/blocks, 16x16
+[17:06:40] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[17:06:40] [Client thread/INFO]: [OptiFine] Loading texture map: textures/items
+[17:06:40] [Client thread/INFO]: [OptiFine] Texture size: textures/items, 16x16
+[17:06:40] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[17:06:41] [Client thread/ERROR]: Unable to do mod description scrolling due to lack of stencil buffer
+[17:06:41] [Client thread/ERROR]: Unable to do mod description scrolling due to lack of stencil buffer
+[17:06:41] [Client thread/INFO]: Initialization ( started )
+[17:06:41] [Client thread/INFO]: Starting AE2 CSV Export
+[17:06:41] [AE2 CSV Export/INFO]: Cache is enabled. Checking for new mod configurations.
+[17:06:41] [AE2 CSV Export/INFO]: New mod configuration was found. Commencing exporting.
+[17:06:41] [AE2 CSV Export/INFO]: Item Exporting ( started )
+[17:06:41] [AE2 CSV Export/WARN]: Could not export subtypes of: item.microblock
+[17:06:41] [AE2 CSV Export/INFO]: Exported successfully 6142 items into items.csv
+[17:06:41] [AE2 CSV Export/INFO]: Item Exporting ( ended after 620 ms)
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.CertusQuartzCrystal:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.NetherQuartzDust:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.CertusQuartzDust:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.CertusQuartzCrystal:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.CertusQuartzCrystal:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.CertusQuartzCrystal:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.WoodenGear:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.IronNugget:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.EnderDust:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.Flour:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.CertusQuartzDust:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.CertusQuartzCrystal:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.NetherQuartzDust:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.CertusQuartzDust:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.CertusQuartzDust:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.EnderDust:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.CertusQuartzDust:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.CertusQuartzCrystal:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.NetherQuartzDust:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.CertusQuartzDust:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.CertusQuartzDust:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.CertusQuartzCrystal:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.NetherQuartzDust:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.CertusQuartzDust:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.CertusQuartzDust:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.EnderDust:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.Flour:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.CertusQuartzDust:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.CertusQuartzDust:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.NetherQuartzDust:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.CertusQuartzDust:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.CertusQuartzDust:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.GoldDust:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.IronDust:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.Flour:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.NetherQuartzDust:0
+[17:06:42] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.CertusQuartzDust:0
+[17:06:42] [Client thread/INFO]: Recipes Loading: OreRegistration: 13 loaded.
+[17:06:42] [Client thread/INFO]: Recipes Loading: Inscribe: 8 loaded.
+[17:06:42] [Client thread/INFO]: Recipes Loading: Grind: 4 loaded.
+[17:06:42] [Client thread/INFO]: Recipes Loading: Crusher: 9 loaded.
+[17:06:42] [Client thread/INFO]: Recipes Loading: Shaped: 210 loaded.
+[17:06:42] [Client thread/INFO]: Recipes Loading: Press: 3 loaded.
+[17:06:42] [Client thread/INFO]: Recipes Loading: HCCrusher: 2 loaded.
+[17:06:42] [Client thread/INFO]: Recipes Loading: Shapeless: 53 loaded.
+[17:06:42] [Client thread/INFO]: Recipes Loading: GrindFZ: 7 loaded.
+[17:06:42] [Client thread/INFO]: Recipes Loading: Pulverizer: 2 loaded.
+[17:06:42] [Client thread/INFO]: Recipes Loading: Macerator: 2 loaded.
+[17:06:42] [Client thread/INFO]: Recipes Loading: MekCrusher: 1 loaded.
+[17:06:42] [Client thread/INFO]: Recipes Loading: Smelt: 1 loaded.
+[17:06:42] [Client thread/INFO]: Transforming Class (appeng.client.gui.implementations.GuiMEMonitorable)
+[17:06:42] [Client thread/INFO]: Initialization ( ended after 1373ms )
+[17:06:42] [Client thread/INFO]: Transforming class thaumcraft.client.renderers.tile.ItemNodeRenderer
+[17:06:42] [Automagy Version Checker Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: java.net.UnknownHostException: everburningtorch.com
+[17:06:42] [Automagy Version Checker Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+[17:06:42] [Automagy Version Checker Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+[17:06:42] [Automagy Version Checker Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[17:06:42] [Automagy Version Checker Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.net.Socket.connect(Socket.java:589)
+[17:06:42] [Automagy Version Checker Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.net.Socket.connect(Socket.java:538)
+[17:06:42] [Automagy Version Checker Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+[17:06:42] [Automagy Version Checker Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+[17:06:42] [Automagy Version Checker Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+[17:06:42] [Automagy Version Checker Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.http.HttpClient.<init>(HttpClient.java:211)
+[17:06:42] [Automagy Version Checker Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:308)
+[17:06:42] [Automagy Version Checker Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:326)
+[17:06:42] [Automagy Version Checker Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1168)
+[17:06:42] [Automagy Version Checker Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1104)
+[17:06:42] [Automagy Version Checker Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:988)
+[17:06:42] [Automagy Version Checker Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:986)
+[17:06:42] [Automagy Version Checker Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.security.AccessController.doPrivileged(Native Method)
+[17:06:42] [Automagy Version Checker Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[17:06:42] [Automagy Version Checker Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:985)
+[17:06:42] [Automagy Version Checker Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:932)
+[17:06:42] [Automagy Version Checker Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1512)
+[17:06:42] [Automagy Version Checker Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[17:06:42] [Automagy Version Checker Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[17:06:42] [Automagy Version Checker Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[17:06:42] [Automagy Version Checker Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.security.AccessController.doPrivileged(Native Method)
+[17:06:42] [Automagy Version Checker Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[17:06:42] [Automagy Version Checker Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[17:06:42] [Automagy Version Checker Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at tuhljin.automagy.lib.VersionCheckerThread.run(VersionCheckerThread.java:30)
+[17:06:43] [Client thread/INFO]: [Automagy] Warning: Humorous one-liner not found.
+[17:06:43] [Client thread/ERROR]: [DCNotifier] [DEBUG] [DummyCore] DummyCore was sadly unable to remove missing texture errors :( 
+[17:06:44] [Client thread/INFO]: Successfully loaded 267 out of 267 recipes for shaped recipes
+[17:06:44] [Client thread/INFO]: Successfully loaded 76 out of 76 recipes for shapeless recipes
+[17:06:44] [Client thread/INFO]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
+[17:06:44] [Client thread/INFO]: Successfully loaded 17 out of 17 recipes for block cutter recipes
+[17:06:44] [Client thread/INFO]: Successfully loaded 48 out of 48 recipes for compressor recipes
+[17:06:44] [Client thread/INFO]: Successfully loaded 12 out of 12 recipes for extractor recipes
+[17:06:44] [Client thread/WARN]: Failed to add recipe. Ignoring
+java.lang.RuntimeException: ambiguous recipe: [[1xtile.gravel@0] -> [1xitem.flint@0]]
+	at ic2.core.BasicMachineRecipeManager.displayError(BasicMachineRecipeManager.java:306) ~[BasicMachineRecipeManager.class:?]
+	at ic2.core.BasicMachineRecipeManager.addRecipe(BasicMachineRecipeManager.java:40) ~[BasicMachineRecipeManager.class:?]
+	at ic2.core.init.Rezepte.loadMachineRecipe(Rezepte.java:338) [Rezepte.class:?]
+	at ic2.core.init.Rezepte.loadMachineRecipes(Rezepte.java:267) [Rezepte.class:?]
+	at ic2.core.init.Rezepte.loadRecipes(Rezepte.java:79) [Rezepte.class:?]
+	at ic2.core.IC2.init(IC2.java:480) [IC2.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) [guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) [guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212) [LoadController.class:?]
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) [guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) [guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119) [LoadController.class:?]
+	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:737) [Loader.class:?]
+	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:311) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:552) [bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[17:06:44] [Client thread/WARN]: Failed to add recipe. Ignoring
+java.lang.RuntimeException: ambiguous recipe: [[8xitem.reeds@0] -> [1xic2.itemBiochaff@0]]
+	at ic2.core.BasicMachineRecipeManager.displayError(BasicMachineRecipeManager.java:306) ~[BasicMachineRecipeManager.class:?]
+	at ic2.core.BasicMachineRecipeManager.addRecipe(BasicMachineRecipeManager.java:40) ~[BasicMachineRecipeManager.class:?]
+	at ic2.core.init.Rezepte.loadMachineRecipe(Rezepte.java:338) [Rezepte.class:?]
+	at ic2.core.init.Rezepte.loadMachineRecipes(Rezepte.java:267) [Rezepte.class:?]
+	at ic2.core.init.Rezepte.loadRecipes(Rezepte.java:79) [Rezepte.class:?]
+	at ic2.core.IC2.init(IC2.java:480) [IC2.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) [guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) [guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212) [LoadController.class:?]
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) [guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) [guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119) [LoadController.class:?]
+	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:737) [Loader.class:?]
+	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:311) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:552) [bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[17:06:44] [Client thread/WARN]: Failed to add recipe. Ignoring
+java.lang.RuntimeException: ambiguous recipe: [[8xtile.pumpkin@0] -> [1xic2.itemBiochaff@0]]
+	at ic2.core.BasicMachineRecipeManager.displayError(BasicMachineRecipeManager.java:306) ~[BasicMachineRecipeManager.class:?]
+	at ic2.core.BasicMachineRecipeManager.addRecipe(BasicMachineRecipeManager.java:40) ~[BasicMachineRecipeManager.class:?]
+	at ic2.core.init.Rezepte.loadMachineRecipe(Rezepte.java:338) [Rezepte.class:?]
+	at ic2.core.init.Rezepte.loadMachineRecipes(Rezepte.java:267) [Rezepte.class:?]
+	at ic2.core.init.Rezepte.loadRecipes(Rezepte.java:79) [Rezepte.class:?]
+	at ic2.core.IC2.init(IC2.java:480) [IC2.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) [guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) [guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212) [LoadController.class:?]
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) [guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) [guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119) [LoadController.class:?]
+	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:737) [Loader.class:?]
+	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:311) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:552) [bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[17:06:44] [Client thread/WARN]: Failed to add recipe. Ignoring
+java.lang.RuntimeException: ambiguous recipe: [[8xitem.melon@0] -> [1xic2.itemBiochaff@0]]
+	at ic2.core.BasicMachineRecipeManager.displayError(BasicMachineRecipeManager.java:306) ~[BasicMachineRecipeManager.class:?]
+	at ic2.core.BasicMachineRecipeManager.addRecipe(BasicMachineRecipeManager.java:40) ~[BasicMachineRecipeManager.class:?]
+	at ic2.core.init.Rezepte.loadMachineRecipe(Rezepte.java:338) [Rezepte.class:?]
+	at ic2.core.init.Rezepte.loadMachineRecipes(Rezepte.java:267) [Rezepte.class:?]
+	at ic2.core.init.Rezepte.loadRecipes(Rezepte.java:79) [Rezepte.class:?]
+	at ic2.core.IC2.init(IC2.java:480) [IC2.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) [guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) [guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212) [LoadController.class:?]
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) [guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) [guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119) [LoadController.class:?]
+	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:737) [Loader.class:?]
+	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:311) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:552) [bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[17:06:44] [Client thread/WARN]: Failed to add recipe. Ignoring
+java.lang.RuntimeException: ambiguous recipe: [[1xtile.cloth@0] -> [2xitem.string@0]]
+	at ic2.core.BasicMachineRecipeManager.displayError(BasicMachineRecipeManager.java:306) ~[BasicMachineRecipeManager.class:?]
+	at ic2.core.BasicMachineRecipeManager.addRecipe(BasicMachineRecipeManager.java:40) ~[BasicMachineRecipeManager.class:?]
+	at ic2.core.init.Rezepte.loadMachineRecipe(Rezepte.java:338) [Rezepte.class:?]
+	at ic2.core.init.Rezepte.loadMachineRecipes(Rezepte.java:267) [Rezepte.class:?]
+	at ic2.core.init.Rezepte.loadRecipes(Rezepte.java:79) [Rezepte.class:?]
+	at ic2.core.IC2.init(IC2.java:480) [IC2.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) [guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) [guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212) [LoadController.class:?]
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) [guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) [guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119) [LoadController.class:?]
+	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:737) [Loader.class:?]
+	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:311) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:552) [bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[17:06:44] [Client thread/WARN]: Failed to add recipe. Ignoring
+java.lang.RuntimeException: ambiguous recipe: [[8xitem.wheat@0] -> [1xic2.itemBiochaff@0]]
+	at ic2.core.BasicMachineRecipeManager.displayError(BasicMachineRecipeManager.java:306) ~[BasicMachineRecipeManager.class:?]
+	at ic2.core.BasicMachineRecipeManager.addRecipe(BasicMachineRecipeManager.java:40) ~[BasicMachineRecipeManager.class:?]
+	at ic2.core.init.Rezepte.loadMachineRecipe(Rezepte.java:338) [Rezepte.class:?]
+	at ic2.core.init.Rezepte.loadMachineRecipes(Rezepte.java:267) [Rezepte.class:?]
+	at ic2.core.init.Rezepte.loadRecipes(Rezepte.java:79) [Rezepte.class:?]
+	at ic2.core.IC2.init(IC2.java:480) [IC2.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) [guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) [guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212) [LoadController.class:?]
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) [guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) [guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119) [LoadController.class:?]
+	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:737) [Loader.class:?]
+	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:311) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:552) [bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[17:06:44] [Client thread/WARN]: Failed to add recipe. Ignoring
+java.lang.RuntimeException: ambiguous recipe: [[1xtile.stonebrick@0] -> [1xtile.sand@0]]
+	at ic2.core.BasicMachineRecipeManager.displayError(BasicMachineRecipeManager.java:306) ~[BasicMachineRecipeManager.class:?]
+	at ic2.core.BasicMachineRecipeManager.addRecipe(BasicMachineRecipeManager.java:40) ~[BasicMachineRecipeManager.class:?]
+	at ic2.core.init.Rezepte.loadMachineRecipe(Rezepte.java:338) [Rezepte.class:?]
+	at ic2.core.init.Rezepte.loadMachineRecipes(Rezepte.java:267) [Rezepte.class:?]
+	at ic2.core.init.Rezepte.loadRecipes(Rezepte.java:79) [Rezepte.class:?]
+	at ic2.core.IC2.init(IC2.java:480) [IC2.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) [guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) [guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212) [LoadController.class:?]
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) [guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) [guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119) [LoadController.class:?]
+	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:737) [Loader.class:?]
+	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:311) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:552) [bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[17:06:44] [Client thread/INFO]: Successfully loaded 57 out of 64 recipes for macerator recipes
+[17:06:44] [Client thread/INFO]: Successfully loaded 4 out of 4 recipes for metal former cutting recipes
+[17:06:44] [Client thread/INFO]: Successfully loaded 10 out of 10 recipes for metal former extruding recipes
+[17:06:44] [Client thread/INFO]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
+[17:06:44] [Client thread/INFO]: Successfully loaded 8 out of 8 recipes for ore washing recipes
+[17:06:44] [Client thread/INFO]: Successfully loaded 25 out of 25 recipes for thermal centrifuge recipes
+[17:06:44] [Client thread/INFO]: Version 9.1.1 initializing...
+[17:06:44] [Client thread/INFO]: Render registrations complete.
+[17:06:44] [Client thread/INFO]: Initialized HolidayManager.
+[17:06:44] [Client thread/INFO]: Loading complete.
+[17:06:44] [Client thread/INFO]: Mod loaded.
+[17:06:44] [Client thread/INFO]: [mekanism.generators.client.GeneratorsClientProxy:registerRenderInformation:87]: [MekanismGenerators] Render registrations complete.
+[17:06:44] [Client thread/INFO]: Loaded MekanismGenerators module.
+[17:06:44] [Client thread/INFO]: Initialization of "mjutils"
+[17:06:45] [Client thread/FATAL]: Focus Upgrade id 42 already occupied. Ignoring.
+[17:06:45] [Client thread/FATAL]: Focus Upgrade id 43 already occupied. Ignoring.
+[17:06:45] [Client thread/INFO]: Starting (Load)
+[17:06:45] [Client thread/INFO]: Starting (Integration)
+[17:06:45] [Client thread/INFO]: Successfully integrated with NEI
+[17:06:45] [Client thread/INFO]: Successfully integrated with Waila
+[17:06:45] [Client thread/INFO]: Skipping integration with EC2
+[17:06:45] [Client thread/INFO]: Skipping integration with CC
+[17:06:45] [Client thread/INFO]: Finished (Integration in 16ms)
+[17:06:45] [Client thread/INFO]: Finished (Load in 93ms)
+[17:06:45] [Client thread/INFO]: Init completed
+[17:06:45] [Client thread/INFO]: Initialization of "thaumores"
+[17:06:47] [Client thread/INFO]: [xaero.patreon.Patreon7:checkPatreon:112]: io exception while checking patreon: Online mod data expired! Date: Fri Nov 06 17:28:29 YEKT 2026
+[17:06:49] [Client thread/INFO]: [xaero.map.misc.Internet:checkModVersion:94]: io exception while checking versions:Online mod data expired! Date: Fri Nov 06 17:28:29 YEKT 2026
+[17:07:33] [Client thread/INFO]: Receiving registration request from [ ThaumicTinkerer ] for method thaumic.tinkerer.common.compat.TTinkererProvider.callbackRegister
+[17:07:33] [Client thread/INFO]: Receiving registration request from [ appliedenergistics2 ] for method appeng.integration.modules.Waila.register
+[17:07:33] [Client thread/INFO]: Receiving registration request from [ Automagy ] for method tuhljin.automagy.lib.compat.waila.WailaProviders.wailaCallbackRegister
+[17:07:33] [Client thread/INFO]: Receiving registration request from [ Mekanism ] for method mekanism.common.integration.WailaDataProvider.register
+[17:07:33] [Client thread/INFO]: Receiving registration request from [ thaumicenergistics ] for method thaumicenergistics.common.integration.ModuleWaila.callbackRegister
+[17:07:33] [Client thread/INFO]: Receiving registration request from [ thaumores ] for method mjaroslav.mcmods.thaumores.common.waila.PluginWaila.wailaInit
+[17:07:33] [Client thread/INFO]: Injecting itemstacks
+[17:07:33] [Client thread/INFO]: Itemstack injection complete
+[17:07:33] [Client thread/INFO]: Post Initialization ( started )
+[17:07:33] [Client thread/ERROR]: Trait already registered for net.minecraftforge.fluids.IFluidHandler
+[17:07:33] [Client thread/ERROR]: Trait already registered for net.minecraftforge.fluids.IFluidHandler
+[17:07:33] [Client thread/ERROR]: Trait already registered for net.minecraft.inventory.ISidedInventory
+[17:07:33] [Client thread/ERROR]: Trait already registered for net.minecraft.inventory.ISidedInventory
+[17:07:33] [Client thread/INFO]: Layer: appeng/parts/layers/LayerISidedInventory_TileCableBus loaded successfully - 5284 bytes
+[17:07:33] [Client thread/INFO]: Layer: appeng/parts/layers/LayerIFluidHandler_TileCableBus loaded successfully - 2442 bytes
+[17:07:33] [Client thread/INFO]: Layer: appeng/parts/layers/LayerITileStorageMonitorable_TileCableBus loaded successfully - 1070 bytes
+[17:07:33] [Client thread/INFO]: Layer: appeng/parts/layers/LayerIEnergySink_TileCableBus loaded successfully - 4289 bytes
+[17:07:33] [Client thread/INFO]: Layer: appeng/parts/layers/LayerIEnergySource_TileCableBus loaded successfully - 4184 bytes
+[17:07:33] [Client thread/INFO]: Layer: appeng/parts/layers/LayerIEnergyHandler_TileCableBus loaded successfully - 1801 bytes
+[17:07:33] [Client thread/INFO]: Layer: appeng/parts/layers/LayerISidedInventory_TileCableBusTESR loaded successfully - 5296 bytes
+[17:07:33] [Client thread/INFO]: Layer: appeng/parts/layers/LayerIFluidHandler_TileCableBusTESR loaded successfully - 2454 bytes
+[17:07:33] [Client thread/INFO]: Layer: appeng/parts/layers/LayerITileStorageMonitorable_TileCableBusTESR loaded successfully - 1082 bytes
+[17:07:33] [Client thread/INFO]: Layer: appeng/parts/layers/LayerIEnergySink_TileCableBusTESR loaded successfully - 4301 bytes
+[17:07:33] [Client thread/INFO]: Layer: appeng/parts/layers/LayerIEnergySource_TileCableBusTESR loaded successfully - 4196 bytes
+[17:07:33] [Client thread/INFO]: Layer: appeng/parts/layers/LayerIEnergyHandler_TileCableBusTESR loaded successfully - 1813 bytes
+[17:07:34] [Client thread/INFO]: Industrial Craft 2 - Integration Enable
+[17:07:34] [Client thread/INFO]: Rotary Craft - Integration Disabled
+[17:07:34] [Client thread/INFO]: Railcraft - Integration Disabled
+[17:07:34] [Client thread/INFO]: BuildCraft Core - Integration Disabled
+[17:07:34] [Client thread/INFO]: BuildCraft Transport - Integration Disabled
+[17:07:34] [Client thread/INFO]: BuildCraft Builders - Integration Disabled
+[17:07:34] [Client thread/INFO]: RedstoneFlux Power - Tiles - Integration Enable
+[17:07:34] [Client thread/INFO]: RedstoneFlux Power - Items - Integration Enable
+[17:07:34] [Client thread/INFO]: Mine Factory Reloaded - Integration Disabled
+[17:07:34] [Client thread/INFO]: Deep Storage Unit - Integration Enable
+[17:07:34] [Client thread/INFO]: Factorization - Integration Disabled
+[17:07:34] [Client thread/INFO]: Forge MultiPart - Integration Enable
+[17:07:34] [Client thread/INFO]: Rotatable Blocks - Integration Disabled
+[17:07:34] [Client thread/INFO]: Colored Lights Core - Integration Disabled
+[17:07:34] [Client thread/INFO]: Waila - Integration Enable
+[17:07:34] [Client thread/INFO]: Inventory Tweaks - Integration Disabled
+[17:07:34] [Client thread/INFO]: Not Enough Items - Integration Enable
+[17:07:34] [Client thread/INFO]: Craft Guide - Integration Disabled
+[17:07:34] [Client thread/INFO]: Mekanism - Integration Enable
+[17:07:34] [Client thread/INFO]: ImmibisMicroblocks - Integration Disabled
+[17:07:34] [Client thread/INFO]: BetterStorage - Integration Disabled
+[17:07:34] [Client thread/INFO]: OpenComputers - Integration Disabled
+[17:07:34] [Client thread/INFO]: PneumaticCraft - Integration Disabled
+[17:07:34] [Client thread/INFO]: Post Initialization ( ended after 184ms )
+[17:07:34] [Client thread/INFO]: Found potion array with a size of 256
+[17:07:34] [Client thread/INFO]: Initializing PotionFluxTaint with id 30
+[17:07:34] [Client thread/INFO]: Initializing PotionVisExhaust with id 31
+[17:07:34] [Client thread/INFO]: Initializing PotionInfectiousVisExhaust with id 32
+[17:07:34] [Client thread/INFO]: Initializing PotionUnnaturalHunger with id 33
+[17:07:34] [Client thread/INFO]: Initializing PotionWarpWard with id 34
+[17:07:34] [Client thread/INFO]: Initializing PotionDeathGaze with id 35
+[17:07:34] [Client thread/INFO]: Initializing PotionBlurredVision with id 36
+[17:07:34] [Client thread/INFO]: Initializing PotionSunScorned with id 37
+[17:07:34] [Client thread/INFO]: Initializing PotionThaumarhia with id 38
+[17:07:34] [Client thread/INFO]: Transforming class thaumcraft.common.lib.utils.Utils
+[17:07:34] [Client thread/INFO]: Adding entities to MFR safari net blacklist.
+[17:07:34] [Client thread/INFO]: Transforming class thaumcraft.api.research.ResearchCategories
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Артишок]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Спаржа]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Бамбук]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Ячмень]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Бобы]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Свёкла]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Болгарский перец]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Ежевика]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Черника]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Брокколи]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Брюссельская капуста]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Капуста]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Плод кактуса]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Свечная ягода]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Канталупа]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Цветная капуста]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Сельдерей]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Перец чили]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Кофейные бобы]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Кукуруза]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Хлопок]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Клюква]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Огурец]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Баклажан]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Чеснок]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Имбирь]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Виноград]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Лук-порей]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Латук]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Горчица]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Овёс]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Окра]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Репчатый лук]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Пастернак]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Арахис]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Горох]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Ананас]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Редис]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Малина]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Ревень]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Рис]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Брюква]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Рожь]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Лук-шалот]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Водоросли]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Соевые бобы]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Лист пряностей]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Шпинат]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Клубника]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Сладкий картофель]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Чайный лист]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Помидор]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Репа]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Белый гриб]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Зимняя тыква]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Цуккини]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Curry Leaf Crop]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Sesame Seeds Crop]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Water Chestnut Crop]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Яблоко]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Миндаль]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Абрикос]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Авокадо]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Банан]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Кешью]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Вишня]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Каштан]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Корица]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Кокос]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Финик]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Питайя]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Дуриан]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Инжир]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Грейпфрут]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Лимон]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Лайм]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Манго]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Клён]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Мускатный орех]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Олива]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Апельсин]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Папайя]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Мелалеука]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Персик]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Груша]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Пекан]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Перец]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Хурма]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Фисташка]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Слива]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Гранат]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Карамбола]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Ванильный стручок]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Грецкий орех]
+[17:07:34] [Client thread/WARN]: Adding standard crop support for [Goosberry]
+[17:07:34] [Client thread/WARN]: Whitelisting [Automagy.WispNether] to spawn champion mobs at level [2]
+[17:07:34] [Client thread/WARN]: Whitelisting [Zombie] to spawn champion mobs at level [0]
+[17:07:34] [Client thread/WARN]: Whitelisting [Spider] to spawn champion mobs at level [0]
+[17:07:34] [Client thread/WARN]: Whitelisting [Blaze] to spawn champion mobs at level [0]
+[17:07:34] [Client thread/WARN]: Whitelisting [Enderman] to spawn champion mobs at level [0]
+[17:07:34] [Client thread/WARN]: Whitelisting [Skeleton] to spawn champion mobs at level [0]
+[17:07:34] [Client thread/WARN]: Whitelisting [Witch] to spawn champion mobs at level [1]
+[17:07:34] [Client thread/WARN]: Whitelisting [Thaumcraft.EldritchCrab] to spawn champion mobs at level [0]
+[17:07:34] [Client thread/WARN]: Whitelisting [Thaumcraft.Taintacle] to spawn champion mobs at level [2]
+[17:07:34] [Client thread/WARN]: Whitelisting [Thaumcraft.Wisp] to spawn champion mobs at level [1]
+[17:07:34] [Client thread/WARN]: Whitelisting [Thaumcraft.InhabitedZombie] to spawn champion mobs at level [3]
+[17:07:34] [Client thread/INFO]: [mcp.mobius.waila.gui.truetyper.TrueTypeFont:<init>:98]: TrueTypeFont loaded: java.awt.Font[family=Minecraftia,name=Minecraftia Regular,style=plain,size=14] - AntiAlias = true
+[17:07:34] [Client thread/INFO]: [Automagy] Integrated with MineFactoryReloaded's IDeepStorageUnit.
+[17:07:34] [Client thread/INFO]: [Automagy] NEI integration was successful.
+[17:07:34] [Client thread/INFO]: rawMeats: [rawMutton]
+[17:07:34] [Client thread/INFO]: knownMeats: [1xitem.beefRaw@0, 1xitem.chickenRaw@0, 1xitem.porkchopRaw@0, 1xitem.fish@0]
+[17:07:34] [Client thread/INFO]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
+[17:07:34] [Client thread/WARN]: UU world-scan config: Can't find ItemStack for BuildCraft|Core:eternalSpring, ignoring the entry in line 88.
+[17:07:34] [Client thread/WARN]: UU world-scan config: Can't find ItemStack for BuildCraft|Core:eternalSpring@1, ignoring the entry in line 109.
+[17:07:34] [Client thread/WARN]: Invalid itemstack detected, shaped vanilla crafting recipe [[1xtile.stonebrick@32767], [1xtile.stonebrick@32767], [1xtile.dirt@32767], [1xtile.dirt@32767], [1xtile.dirt@32767]] -> 1x(null)@(unknown)
+[17:07:34] [Client thread/WARN]: Invalid itemstack detected, shaped vanilla crafting recipe [[1xtile.stonebrick@32767], [1xtile.stonebrick@32767], [1xtile.dirt@32767], [1xtile.dirt@32767], [1xtile.dirt@32767]] -> 1x(null)@(unknown)
+[17:07:34] [Client thread/INFO]: IC2 version 2.2.828-experimental loaded.
+[17:07:35] [Client thread/INFO]: Skipping CraftGuide integration.
+[17:07:36] [Client thread/INFO]: Starting recipe init!
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmPress.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmPress.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmBlastFurnace.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmBlastFurnace.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmShredder.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmShredder.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmSoldering.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmSoldering.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmCombination.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmCombination.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmCrucible.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmCrucible.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmCentrifuge.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmCentrifuge.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmCrystallizer.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmCrystallizer.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmRefinery.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmRefinery.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmVacRefinery.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmVacRefinery.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmFractions.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmFractions.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmCracking.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmCracking.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmReforming.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmReforming.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmHydrotreating.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmHydrotreating.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmLiquefactor.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmLiquefactor.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmSolidifier.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmSolidifier.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmCoker.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmCoker.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmPyrolysis.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmPyrolysis.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmBreeder.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmBreeder.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmCyclotron.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmCyclotron.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmFuelpool.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmFuelpool.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmMixer.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmMixer.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmIrradiation.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmIrradiation.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmIrradiationFluids.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmIrradiationFluids.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmCompressor.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmCompressor.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmElectrolyzerFluid.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmElectrolyzerFluid.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmElectrolyzerMetal.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmElectrolyzerMetal.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmArcWelder.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmArcWelder.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmRotaryFurnace.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmRotaryFurnace.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmExposureChamber.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmExposureChamber.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmParticleAccelerator.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmParticleAccelerator.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmAmmoPress.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmAmmoPress.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmAnvil.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmAnvil.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmAlkylation.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmAlkylation.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmVacuumCircuit.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmVacuumCircuit.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmPedestal.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmPedestal.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmAnnihilator.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmAnnihilator.json
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: java.lang.IllegalStateException: Error while writing recipes for AnnihilatorRecipes: Recipe list is either empty or in an unsupported format!
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.hbm.inventory.recipes.loader.SerializableRecipe.writeTemplateFile(SerializableRecipe.java:221)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.hbm.inventory.recipes.loader.SerializableRecipe.initialize(SerializableRecipe.java:156)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.hbm.main.MainRegistry.PostLoad(MainRegistry.java:589)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:742)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:311)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:552)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.client.main.Main.main(SourceFile:148)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[17:07:36] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmAtmosphere.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmAtmosphere.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmAssemblyMachine.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmAssemblyMachine.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmChemicalPlant.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmChemicalPlant.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmPUREX.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmPUREX.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmFusion.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmFusion.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmPrecisionAssembly.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmPrecisionAssembly.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmCrucibleSmelting.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmCrucibleSmelting.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmCryodistillator.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmCryodistillator.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmCustomMachines.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmCustomMachines.json
+[17:07:36] [Client thread/INFO]: No recipe file found, registering defaults for hbmArcFurnace.json
+[17:07:36] [Client thread/INFO]: Writing template file _hbmArcFurnace.json
+[17:07:36] [Client thread/INFO]: Finished recipe init!
+[17:07:36] [Client thread/INFO]: No armor file found, registering defaults for _hbmArmor.json
+[17:07:37] [Client thread/INFO]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[17:07:37] [Client thread/INFO]: Hooked into IC2 successfully.
+[17:07:37] [Client thread/INFO]: Finished loading Cardboard Box blacklist (loaded 0 entries)
+[17:07:37] [Client thread/INFO]: Hooking complete.
+[17:07:37] [Client thread/INFO]: Post initialization of "mjutils"
+[17:07:37] [Client thread/INFO]: Starting (PostInit)
+[17:07:37] [Client thread/INFO]: Added "class thaumcraft.common.tiles.TileAlembic" with capacity (32) to extraction whitelist.
+[17:07:37] [Client thread/INFO]: Added "class thaumcraft.common.tiles.TileCentrifuge" with capacity (0) to extraction whitelist.
+[17:07:37] [Client thread/INFO]: Added "class thaumcraft.common.tiles.TileJarFillable" with capacity (64) to injection whitelist.
+[17:07:37] [Client thread/INFO]: Added "class thaumcraft.common.tiles.TileJarFillable" with capacity (64) to extraction whitelist.
+[17:07:37] [Client thread/INFO]: Added "class thaumcraft.common.tiles.TileJarFillableVoid" with capacity (64) to injection whitelist.
+[17:07:37] [Client thread/INFO]: Added "class thaumcraft.common.tiles.TileJarFillableVoid" with capacity (64) to extraction whitelist.
+[17:07:37] [Client thread/INFO]: Added "class thaumcraft.common.tiles.TileTubeBuffer" with capacity (8) to extraction whitelist.
+[17:07:37] [Client thread/INFO]: Added "class thaumcraft.common.tiles.TileEssentiaReservoir" with capacity (256) to injection whitelist.
+[17:07:37] [Client thread/INFO]: Added "class thaumcraft.common.tiles.TileEssentiaReservoir" with capacity (256) to extraction whitelist.
+[17:07:37] [Client thread/INFO]: Added "class thaumcraft.common.tiles.TileAlchemyFurnaceAdvancedNozzle" with capacity (0) to extraction whitelist.
+[17:07:37] [Client thread/INFO]: Added "class thaumicenergistics.common.tiles.TileEssentiaVibrationChamber" with capacity (64) to injection whitelist.
+[17:07:37] [Client thread/INFO]: Added "class thaumcraft.common.items.ItemEssence"[0] to item whitelist.
+[17:07:37] [Client thread/INFO]: Added "class thaumcraft.common.items.ItemEssence"[1] to item whitelist.
+[17:07:37] [Client thread/INFO]: Added "class thaumcraft.common.blocks.ItemJarFilled"[0] to item whitelist.
+[17:07:37] [Client thread/INFO]: Added "class thaumcraft.common.blocks.ItemJarFilled"[3] to item whitelist.
+[17:07:37] [Client thread/INFO]: Added "class thaumicenergistics.common.items.ItemBlockEssentiaVibrationChamber"[0] to item whitelist.
+[17:07:37] [Client thread/INFO]: Starting (AE Scanables)
+[17:07:37] [Client thread/INFO]: Could not register "Именующий пресс для высекателя" for TC scanning.
+[17:07:37] [Client thread/INFO]: Could not register "Биометрическая карта" for TC scanning.
+[17:07:37] [Client thread/INFO]: Could not register "Творческая МЭ ячейка хранения" for TC scanning.
+[17:07:37] [Client thread/INFO]: Could not register "Аппликатор цвета - Пустой" for TC scanning.
+[17:07:37] [Client thread/INFO]: Could not register "Каркас матрицы" for TC scanning.
+[17:07:37] [Client thread/INFO]: Could not register "Творческая энергетическая ячейка" for TC scanning.
+[17:07:37] [Client thread/INFO]: Could not register "tile.appliedenergistics2.BlockPaint.name" for TC scanning.
+[17:07:37] [Client thread/INFO]: Finished (AE Scanables in 185ms)
+[17:07:37] [Client thread/INFO]: Finished (PostInit in 208ms)
+[17:07:37] [Client thread/INFO]: Postinit completed
+[17:07:37] [Client thread/INFO]: Post initialization of "thaumores"
+[17:07:39] [Client thread/INFO]: [xaero.common.misc.Internet:checkModVersion:103]: io exception while checking versions: Online mod data expired! Date: Fri Nov 06 17:28:29 YEKT 2026
+[17:07:39] [Client thread/INFO]: [xaero.common.mods.SupportMods:<init>:35]: Xaero's Minimap: World Map found!
+[17:07:39] [Client thread/INFO]: [xaero.common.mods.SupportMods:<init>:42]: Optifine!
+[17:07:39] [Client thread/INFO]: [xaero.map.settings.ModSettings:updateRegionCacheHashCode:365]: New world map region cache hash code: 667778706
+[17:07:39] [Client thread/INFO]: [xaero.map.mods.SupportXaeroMinimap:<init>:65]: Xaero's WorldMap Mod: Xaero's minimap found!
+[17:07:39] [Client thread/INFO]: [xaero.map.mods.SupportMods:load:25]: No Vivecraft!
+[17:07:45] [Client thread/INFO]: If your Log stops here, you were too impatient. Wait a bit more next time, before killing Minecraft with the Task Manager.
+[17:10:46] [Client thread/INFO]: Congratulations, you have been waiting long enough. Have a Cake.
+[17:10:59] [Client thread/ERROR]: Fatal errors were detected during the transition from POSTINITIALIZATION to AVAILABLE. Loading cannot continue
+[17:10:59] [Client thread/ERROR]: 
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UCHIJ	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) 
+	UCHIJ	FML{7.10.99.99} [Forge Mod Loader] (forge-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UCHIJ	Forge{10.13.4.1614} [Minecraft Forge] (forge-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UCHIJ	appliedenergistics2-core{rv3-beta-6} [Applied Energistics 2 Core] (minecraft.jar) 
+	UCHIJ	CodeChickenCore{1.0.7.48} [CodeChicken Core] (minecraft.jar) 
+	UCHIJ	NotEnoughItems{1.0.5.120} [Not Enough Items] (NotEnoughItems-1.7.10-1.0.5.120-universal.jar) 
+	UCHIJ	ThE-core{1.0.0.1} [Thaumic Energistics Core] (minecraft.jar) 
+	UCHIJ	ThaumicTinkerer-preloader{0.1} [Thaumic Tinkerer Core] (minecraft.jar) 
+	UCHIJ	xaerominimap_core{1.7.10-1.0} [XaeroMinimapCore] (minecraft.jar) 
+	UCHIJ	xaeroworldmap_core{1.7.10-1.0} [XaeroWorldMapCore] (minecraft.jar) 
+	UCHIJ	appliedenergistics2{rv3-beta-6} [Applied Energistics 2] (appliedenergistics2-rv3-beta-6.jar) 
+	UCHIJ	Baubles{1.0.1.10} [Baubles] (Baubles-1.7.10-1.0.1.10.jar) 
+	UCHIJ	Thaumcraft{4.2.3.5} [Thaumcraft] (Thaumcraft_1.7.10_4.2.3.5.jar) 
+	UCHIJ	Waila{1.5.10} [Waila] (Waila-1.5.10_1.7.10.jar) 
+	UCHIJ	Automagy{0.28.2} [Automagy] (Automagy-1.7.10-0.28.2.jar) 
+	UCHIJ	Avaritia{1.13} [Avaritia] (Avaritia-1.13.jar) 
+	UCHIJ	BiblioCraft{1.11.7} [BiblioCraft] (BiblioCraft[v1.11.7][MC1.7.10].jar) 
+	UCHIJ	DummyCore{2.0.1710.0.A} [DummyCore] (DummyCore-2.0.1710.0A.jar) 
+	UCHIJ	IC2{2.2.828-experimental} [IndustrialCraft 2] (industrialcraft-2-2.2.828-experimental.jar) 
+	UCHIJ	ForgeMultipart{1.1.2.331} [Forge Multipart] (ForgeMultipart-1.7.10-1.1.2.331-universal.jar) 
+	UCHIJ	ThaumicTinkerer{unspecified} [Thaumic Tinkerer] (ThaumicTinkerer-2.5-1.7.10-164.jar) 
+	UCHIJ	ForbiddenMagic{1.7.10-0.575} [Forbidden Magic] (Forbidden Magic-1.7.10-0.575.jar) 
+	UCHIJ	Forestry{4.2.16.64} [Forestry for Minecraft] (forestry_1.7.10-4.2.16.64.jar) 
+	UCHIJ	gravestone{0.7.10.3} [Gravestone] (GraveStone Mod 0.7.10.3.jar) 
+	UCHIJ	harvestcraft{1.7.10j} [Pam's HarvestCraft] (Pam's HarvestCraft 1.7.10Lb.jar) 
+	UCHIJ	gregtech{MC1710} [GregTech] (gregtech-5.09.31-HBM-Isolated-RU-VanillaPreserve.jar) 
+	UCHIJ	hbm{1.0.27 BETA (5645)} [NTM: Space] (HBM-NTM-.1.0.27_X5645_H261.jar) 
+	UCHIJ	ic2additions{0.9.0} [IC2 Additions] (ic2additions1.7.10-0.9.0.jar) 
+	UCHIJ	Mekanism{9.1.1} [Mekanism] (Mekanism-1.7.10-9.1.1.1031.jar) 
+	UCHIJ	MekanismGenerators{9.1.1} [MekanismGenerators] (MekanismGenerators-1.7.10-9.1.1.1031.jar) 
+	UCHIJ	mjutils{1.6.1} [MJUtils] (mjutils-1.6.1.jar) 
+	UCHIJ	neresources{0.1.0.ManuallyBuilt} [Not Enough Resources] (NotEnoughResources-1.7.10-0.1.0-128.jar) 
+	UCHIJ	simplerecipes{1.7.10a} [Pam's Simple Recipes] (Pam's Simple Recipes 1.7.10a.jar) 
+	UCHIJ	tcnodetracker{1.1.2} [TC Node Tracker] (tcnodetracker-1.7.10-1.1.2.jar) 
+	UCHIJ	tc4tweak{1.5.48} [TC4 Tweak] (Thaumcraft4Tweaks-1.5.48.jar) 
+	UCHIJ	thaumcraftneiplugin{@VERSION@} [Thaumcraft NEI Plugin] (thaumcraftneiplugin-1.7.10-1.7a.jar) 
+	UCHIJ	thaumicdyes{1.10.5} [Thaumic Dyes] (Thaumic-Dyes-[1.7.10] 1.10.5-0.jar) 
+	UCHIJ	thaumicbases{1.3.1710.2} [Thaumic Bases] (ThaumicBases-1.3.1710.4.jar) 
+	UCHIJ	thaumicenergistics{1.1.3.0} [Thaumic Energistics] (thaumicenergistics-1.1.3.0.jar) 
+	UCHIE	ThaumicHorizons{1.8.28} [ThaumicHorizons] (ThaumicHorizons-1.8.28.jar) 
+	UCHIJ	thaumicinsurgence{0.2.6} [Thaumic Insurgence] (thaumicinsurgence-0.2.6.jar) 
+	UCHIJ	thaumores{1.6.0} [ThaumOres] (thaumores-1.6.0.jar) 
+	UCHIJ	tlauncher_custom_cape_skin{1.0} [TLSkinCape] (tlskincape1.7.10-1.4.jar) 
+	UCHIJ	TWarden{1.1.1} [Thaumic Warden] (TWarden-1.1.1.jar) 
+	UCHIJ	XaeroMinimap{21.10.44} [Xaero's Minimap] (Xaeros_Minimap_21.10.44_Forge_1.7.10.jar) 
+	UCHIJ	XaeroWorldMap{1.14.1.33} [Xaero's World Map] (XaerosWorldMap_1.14.1.33_Forge_1.7.10.jar) 
+	UCHIJ	McMultipart{1.1.2.331} [Minecraft Multipart Plugin] (ForgeMultipart-1.7.10-1.1.2.331-universal.jar) 
+	UCHIJ	ForgeMicroblock{1.1.2.331} [Forge Microblocks] (ForgeMultipart-1.7.10-1.1.2.331-universal.jar) 
+[17:10:59] [Client thread/ERROR]: The following problems were captured during this phase
+[17:10:59] [Client thread/ERROR]: Caught exception from ThaumicHorizons
+java.lang.NoClassDefFoundError: gregtech/api/util/GTOreDictUnificator
+	at com.kentington.thaumichorizons.common.ThaumicHorizons.postInit(ThaumicHorizons.java:2085) ~[ThaumicHorizons.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119) [LoadController.class:?]
+	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:742) [Loader.class:?]
+	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:311) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:552) [bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.ClassNotFoundException: gregtech.api.util.GTOreDictUnificator
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_51]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_51]
+	... 37 more
+Caused by: java.lang.NullPointerException
+[17:11:01] [Client thread/INFO]: [net.minecraft.client.Minecraft:func_71377_b:349]: ---- Minecraft Crash Report ----
+// Who set us up the TNT?
+
+Time: 11/14/26 5:11 PM
+Description: There was a severe problem during mod loading that has caused the game to fail
+
+cpw.mods.fml.common.LoaderException: java.lang.NoClassDefFoundError: gregtech/api/util/GTOreDictUnificator
+	at cpw.mods.fml.common.LoadController.transition(LoadController.java:163)
+	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:744)
+	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:311)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:552)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878)
+	at net.minecraft.client.main.Main.main(SourceFile:148)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+Caused by: java.lang.NoClassDefFoundError: gregtech/api/util/GTOreDictUnificator
+	at com.kentington.thaumichorizons.common.ThaumicHorizons.postInit(ThaumicHorizons.java:2085)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:742)
+	... 10 more
+Caused by: java.lang.ClassNotFoundException: gregtech.api.util.GTOreDictUnificator
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 37 more
+Caused by: java.lang.NullPointerException
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 3334316544 bytes (3179 MB) / 4261412864 bytes (4064 MB) up to 10502537216 bytes (10016 MB)
+	JVM Flags: 7 total; -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Xmx9989M
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v9.05 FML v7.10.99.99 Minecraft Forge 10.13.4.1614 Optifine OptiFine_1.7.10_HD_U_E7 48 mods loaded, 48 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UCHIJ	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) 
+	UCHIJ	FML{7.10.99.99} [Forge Mod Loader] (forge-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UCHIJ	Forge{10.13.4.1614} [Minecraft Forge] (forge-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UCHIJ	appliedenergistics2-core{rv3-beta-6} [Applied Energistics 2 Core] (minecraft.jar) 
+	UCHIJ	CodeChickenCore{1.0.7.48} [CodeChicken Core] (minecraft.jar) 
+	UCHIJ	NotEnoughItems{1.0.5.120} [Not Enough Items] (NotEnoughItems-1.7.10-1.0.5.120-universal.jar) 
+	UCHIJ	ThE-core{1.0.0.1} [Thaumic Energistics Core] (minecraft.jar) 
+	UCHIJ	ThaumicTinkerer-preloader{0.1} [Thaumic Tinkerer Core] (minecraft.jar) 
+	UCHIJ	xaerominimap_core{1.7.10-1.0} [XaeroMinimapCore] (minecraft.jar) 
+	UCHIJ	xaeroworldmap_core{1.7.10-1.0} [XaeroWorldMapCore] (minecraft.jar) 
+	UCHIJ	appliedenergistics2{rv3-beta-6} [Applied Energistics 2] (appliedenergistics2-rv3-beta-6.jar) 
+	UCHIJ	Baubles{1.0.1.10} [Baubles] (Baubles-1.7.10-1.0.1.10.jar) 
+	UCHIJ	Thaumcraft{4.2.3.5} [Thaumcraft] (Thaumcraft_1.7.10_4.2.3.5.jar) 
+	UCHIJ	Waila{1.5.10} [Waila] (Waila-1.5.10_1.7.10.jar) 
+	UCHIJ	Automagy{0.28.2} [Automagy] (Automagy-1.7.10-0.28.2.jar) 
+	UCHIJ	Avaritia{1.13} [Avaritia] (Avaritia-1.13.jar) 
+	UCHIJ	BiblioCraft{1.11.7} [BiblioCraft] (BiblioCraft[v1.11.7][MC1.7.10].jar) 
+	UCHIJ	DummyCore{2.0.1710.0.A} [DummyCore] (DummyCore-2.0.1710.0A.jar) 
+	UCHIJ	IC2{2.2.828-experimental} [IndustrialCraft 2] (industrialcraft-2-2.2.828-experimental.jar) 
+	UCHIJ	ForgeMultipart{1.1.2.331} [Forge Multipart] (ForgeMultipart-1.7.10-1.1.2.331-universal.jar) 
+	UCHIJ	ThaumicTinkerer{unspecified} [Thaumic Tinkerer] (ThaumicTinkerer-2.5-1.7.10-164.jar) 
+	UCHIJ	ForbiddenMagic{1.7.10-0.575} [Forbidden Magic] (Forbidden Magic-1.7.10-0.575.jar) 
+	UCHIJ	Forestry{4.2.16.64} [Forestry for Minecraft] (forestry_1.7.10-4.2.16.64.jar) 
+	UCHIJ	gravestone{0.7.10.3} [Gravestone] (GraveStone Mod 0.7.10.3.jar) 
+	UCHIJ	harvestcraft{1.7.10j} [Pam's HarvestCraft] (Pam's HarvestCraft 1.7.10Lb.jar) 
+	UCHIJ	gregtech{MC1710} [GregTech] (gregtech-5.09.31-HBM-Isolated-RU-VanillaPreserve.jar) 
+	UCHIJ	hbm{1.0.27 BETA (5645)} [NTM: Space] (HBM-NTM-.1.0.27_X5645_H261.jar) 
+	UCHIJ	ic2additions{0.9.0} [IC2 Additions] (ic2additions1.7.10-0.9.0.jar) 
+	UCHIJ	Mekanism{9.1.1} [Mekanism] (Mekanism-1.7.10-9.1.1.1031.jar) 
+	UCHIJ	MekanismGenerators{9.1.1} [MekanismGenerators] (MekanismGenerators-1.7.10-9.1.1.1031.jar) 
+	UCHIJ	mjutils{1.6.1} [MJUtils] (mjutils-1.6.1.jar) 
+	UCHIJ	neresources{0.1.0.ManuallyBuilt} [Not Enough Resources] (NotEnoughResources-1.7.10-0.1.0-128.jar) 
+	UCHIJ	simplerecipes{1.7.10a} [Pam's Simple Recipes] (Pam's Simple Recipes 1.7.10a.jar) 
+	UCHIJ	tcnodetracker{1.1.2} [TC Node Tracker] (tcnodetracker-1.7.10-1.1.2.jar) 
+	UCHIJ	tc4tweak{1.5.48} [TC4 Tweak] (Thaumcraft4Tweaks-1.5.48.jar) 
+	UCHIJ	thaumcraftneiplugin{@VERSION@} [Thaumcraft NEI Plugin] (thaumcraftneiplugin-1.7.10-1.7a.jar) 
+	UCHIJ	thaumicdyes{1.10.5} [Thaumic Dyes] (Thaumic-Dyes-[1.7.10] 1.10.5-0.jar) 
+	UCHIJ	thaumicbases{1.3.1710.2} [Thaumic Bases] (ThaumicBases-1.3.1710.4.jar) 
+	UCHIJ	thaumicenergistics{1.1.3.0} [Thaumic Energistics] (thaumicenergistics-1.1.3.0.jar) 
+	UCHIE	ThaumicHorizons{1.8.28} [ThaumicHorizons] (ThaumicHorizons-1.8.28.jar) 
+	UCHIJ	thaumicinsurgence{0.2.6} [Thaumic Insurgence] (thaumicinsurgence-0.2.6.jar) 
+	UCHIJ	thaumores{1.6.0} [ThaumOres] (thaumores-1.6.0.jar) 
+	UCHIJ	tlauncher_custom_cape_skin{1.0} [TLSkinCape] (tlskincape1.7.10-1.4.jar) 
+	UCHIJ	TWarden{1.1.1} [Thaumic Warden] (TWarden-1.1.1.jar) 
+	UCHIJ	XaeroMinimap{21.10.44} [Xaero's Minimap] (Xaeros_Minimap_21.10.44_Forge_1.7.10.jar) 
+	UCHIJ	XaeroWorldMap{1.14.1.33} [Xaero's World Map] (XaerosWorldMap_1.14.1.33_Forge_1.7.10.jar) 
+	UCHIJ	McMultipart{1.1.2.331} [Minecraft Multipart Plugin] (ForgeMultipart-1.7.10-1.1.2.331-universal.jar) 
+	UCHIJ	ForgeMicroblock{1.1.2.331} [Forge Microblocks] (ForgeMultipart-1.7.10-1.1.2.331-universal.jar) 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 560.94' Renderer: 'NVIDIA GeForce GTX 1660/PCIe/SSE2'
+	AE2 Version: beta rv3-beta-6 for Forge 10.13.4.1448
+	TC4Tweak signing signature: 473C3A397676978FF4877ABA2D57860DDA20E2FC, Built by: glease
+	[DummyCore]: 'Special case ASM modification mods: ''Note, that this mods might not be involved in the crash in ANY WAY!''DummyCore just prints some known mods for a lot of ASM modifications''DummyCore''CodeChickenCore'
+	NTM Modified recipes: 
+	Forestry : Warning: You have mods that change the behavior of Minecraft, ForgeModLoader, and/or Minecraft Forge to your client: 
+Optifine
+These may have caused this error, and may not be supported. Try reproducing the crash WITHOUT these mods, and report it then.
+	AE2 Integration: IC2:ON, RotaryCraft:OFF, RC:OFF, BuildCraftCore:OFF, BuildCraftTransport:OFF, BuildCraftBuilder:OFF, RF:ON, RFItem:ON, MFR:OFF, DSU:ON, FZ:OFF, FMP:ON, RB:OFF, CLApi:OFF, Waila:ON, InvTweaks:OFF, NEI:ON, CraftGuide:OFF, Mekanism:ON, ImmibisMicroblocks:OFF, BetterStorage:OFF, OpenComputers:OFF, PneumaticCraft:OFF
+	OptiFine Version: OptiFine_1.7.10_HD_U_E7
+	Render Distance Chunks: 12
+	Mipmaps: 4
+	Anisotropic Filtering: 1
+	Antialiasing: 0
+	Multitexture: false
+	Shaders: null
+	OpenGlVersion: 4.6.0 NVIDIA 560.94
+	OpenGlRenderer: NVIDIA GeForce GTX 1660/PCIe/SSE2
+	OpenGlVendor: NVIDIA Corporation
+	CpuCount: 6
+[17:11:01] [Client thread/INFO]: [net.minecraft.client.Minecraft:func_71377_b:359]: #@!@# Game crashed! Crash report saved to: #@!@# D:\.minecraft\versions\hbm spais\crash-reports\crash-2026-11-14_17.11.00-client.txt
