@@ -1,0 +1,529 @@
+[18:03:14] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[18:03:14] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[18:03:14] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[18:03:14] [main/INFO]: Forge Mod Loader version 7.99.40.1614 for Minecraft 1.7.10 loading
+[18:03:14] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at D:\.minecraft\runtime\jre-legacy\windows\jre-legacy
+[18:03:14] [main/INFO]: [AppEng] Core Init
+[18:03:14] [main/WARN]: The coremod codechicken.core.launch.CodeChickenCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:03:15] [main/INFO]: [codechicken.core.launch.DepLoader$DepLoadInst:download:343]: Download complete
+[18:03:15] [main/INFO]: [codechicken.core.launch.DepLoader$DepLoadInst:scanDepInfo:510]: Failed to load dependencies.info from ForgeMultipart-1.7.10-1.1.2.331-universal.jar as JSON
+[18:03:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: java.util.zip.ZipException: error in opening zip file
+[18:03:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.util.zip.ZipFile.open(Native Method)
+[18:03:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.util.zip.ZipFile.<init>(ZipFile.java:220)
+[18:03:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.util.zip.ZipFile.<init>(ZipFile.java:150)
+[18:03:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.util.zip.ZipFile.<init>(ZipFile.java:164)
+[18:03:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at codechicken.core.launch.DepLoader$DepLoadInst.scanDepInfo(DepLoader.java:503)
+[18:03:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at codechicken.core.launch.DepLoader$DepLoadInst.download(DepLoader.java:345)
+[18:03:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at codechicken.core.launch.DepLoader$DepLoadInst.load(DepLoader.java:480)
+[18:03:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at codechicken.core.launch.DepLoader$DepLoadInst.loadDeps(DepLoader.java:466)
+[18:03:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at codechicken.core.launch.DepLoader$DepLoadInst.load(DepLoader.java:449)
+[18:03:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at codechicken.core.launch.DepLoader.load(DepLoader.java:584)
+[18:03:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at codechicken.core.launch.CodeChickenCorePlugin.<init>(CodeChickenCorePlugin.java:47)
+[18:03:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[18:03:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[18:03:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[18:03:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+[18:03:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.Class.newInstance(Class.java:442)
+[18:03:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:501)
+[18:03:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:389)
+[18:03:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:221)
+[18:03:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:90)
+[18:03:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupClient(FMLLaunchHandler.java:67)
+[18:03:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.configureForClientLaunch(FMLLaunchHandler.java:34)
+[18:03:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.launcher.FMLTweaker.injectIntoClassLoader(FMLTweaker.java:126)
+[18:03:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115)
+[18:03:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[18:03:15] [main/ERROR]: Unable to read the jar file CodeChickenLib-1.7.10-1.1.3.141-universal.jar - ignoring
+java.io.FileNotFoundException: D:\.minecraft\versions\hbm spais_copy_1\mods\CodeChickenLib-1.7.10-1.1.3.141-universal.jar (Не удается найти указанный файл)
+	at java.util.zip.ZipFile.open(Native Method) ~[?:1.8.0_51]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:220) ~[?:1.8.0_51]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:150) ~[?:1.8.0_51]
+	at java.util.jar.JarFile.<init>(JarFile.java:166) ~[?:1.8.0_51]
+	at java.util.jar.JarFile.<init>(JarFile.java:130) ~[?:1.8.0_51]
+	at cpw.mods.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:308) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:221) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:90) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupClient(FMLLaunchHandler.java:67) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.configureForClientLaunch(FMLLaunchHandler.java:34) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.common.launcher.FMLTweaker.injectIntoClassLoader(FMLTweaker.java:126) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[18:03:15] [main/INFO]: Loading tweaker forestry.shade.javacheck.Java7Checker from forestry_1.7.10-4.2.16.64.jar
+[18:03:15] [main/WARN]: The coremod ic2.core.coremod.IC2core does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:03:15] [main/WARN]: The coremod mekanism.common.asm.LoadingHook does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:03:16] [main/INFO]: [HOOKLIB]  Obfuscated: true
+[18:03:16] [main/WARN]: The coremod mjaroslav.mcmods.mjutils.hook.MJUtilsHookLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:03:16] [main/WARN]: The coremod codechicken.nei.asm.NEICorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:03:16] [main/INFO]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.7.10_HD_U_E7.jar
+[18:03:18] [main/WARN]: The coremod thaumcraft.codechicken.core.launch.DepLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:03:20] [main/WARN]: The coremod thaumic.tinkerer.preloader.ThaumicTLoaderContainer does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:03:23] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:03:23] [main/INFO]: Loading tweak class name forestry.shade.javacheck.Java7Checker
+[18:03:23] [main/INFO]: Loading tweak class name optifine.OptiFineForgeTweaker
+[18:03:23] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[18:03:23] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:03:23] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:03:23] [main/INFO]: Calling tweak class optifine.OptiFineForgeTweaker
+[18:03:23] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[18:03:23] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: injectIntoClassLoader
+[18:03:23] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:221]: OptiFine ClassTransformer
+[18:03:23] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:221]: OptiFine ZIP file: D:\.minecraft\versions\hbm spais_copy_1\mods\OptiFine_1.7.10_HD_U_E7.jar
+[18:03:23] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:03:27] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[18:03:27] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[18:03:27] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:03:27] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:03:29] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:03:30] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:03:31] [main/ERROR]: CodeChickenCore: Failed to read jar file: ForgeMultipart-1.7.10-1.1.2.331-universal.jar
+java.util.zip.ZipException: error in opening zip file
+	at java.util.zip.ZipFile.open(Native Method) ~[?:1.8.0_51]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:220) ~[?:1.8.0_51]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:150) ~[?:1.8.0_51]
+	at java.util.jar.JarFile.<init>(JarFile.java:166) ~[?:1.8.0_51]
+	at java.util.jar.JarFile.<init>(JarFile.java:130) ~[?:1.8.0_51]
+	at codechicken.core.launch.CodeChickenCorePlugin.scanMod(CodeChickenCorePlugin.java:148) [CodeChickenCore-1.7.10-1.0.7.48-universal.jar:?]
+	at codechicken.core.launch.CodeChickenCorePlugin.scanCodeChickenMods(CodeChickenCorePlugin.java:140) [CodeChickenCore-1.7.10-1.0.7.48-universal.jar:?]
+	at codechicken.core.launch.CodeChickenCorePlugin.call(CodeChickenCorePlugin.java:128) [CodeChickenCore-1.7.10-1.0.7.48-universal.jar:?]
+	at codechicken.core.launch.CodeChickenCorePlugin.call(CodeChickenCorePlugin.java:30) [CodeChickenCore-1.7.10-1.0.7.48-universal.jar:?]
+	at cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper.injectIntoClassLoader(CoreModManager.java:133) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[18:03:31] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:03:32] [main/INFO]: Extracted library EJML-core-0.26.jar.
+[18:03:32] [main/INFO]: Loaded library EJML-core-0.26.jar.
+[18:03:32] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:03:32] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:03:33] [main/INFO]: [mjaroslav.mcmods.mjutils.gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hook contatiner mjaroslav.mcmods.mjutils.gloomyfolken.hooklib.minecraft.SecondaryTransformerHook
+[18:03:33] [main/INFO]: Trying to load hooks configuration...
+[18:03:33] [main/ERROR]: Failed to load hooks configuration!
+java.nio.file.NoSuchFileException: config\mjutils_disabled_hooks.txt
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:79) ~[?:1.8.0_51]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:97) ~[?:1.8.0_51]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:102) ~[?:1.8.0_51]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:230) ~[?:1.8.0_51]
+	at java.nio.file.Files.newByteChannel(Files.java:361) ~[?:1.8.0_51]
+	at java.nio.file.Files.newByteChannel(Files.java:407) ~[?:1.8.0_51]
+	at java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:384) ~[?:1.8.0_51]
+	at java.nio.file.Files.newInputStream(Files.java:152) ~[?:1.8.0_51]
+	at java.nio.file.Files.newBufferedReader(Files.java:2784) ~[?:1.8.0_51]
+	at java.nio.file.Files.readAllLines(Files.java:3202) ~[?:1.8.0_51]
+	at java.nio.file.Files.readAllLines(Files.java:3242) ~[?:1.8.0_51]
+	at mjaroslav.mcmods.mjutils.hook.HookConfig.<clinit>(HookConfig.java:22) [HookConfig.class:?]
+	at mjaroslav.mcmods.mjutils.hook.MJUtilsHookLoader.registerHooks(MJUtilsHookLoader.java:16) [mjutils-1.6.1.jar:?]
+	at mjaroslav.mcmods.mjutils.gloomyfolken.hooklib.minecraft.HookLoader.injectData(HookLoader.java:82) [HookLoader.class:?]
+	at cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper.injectIntoClassLoader(CoreModManager.java:119) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[18:03:33] [main/ERROR]: Trying to create default hooks configuration file...
+[18:03:33] [main/INFO]: Default hooks configuration created!
+[18:03:33] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:03:33] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:03:34] [main/INFO]: [thaumcraft.codechicken.core.launch.DepLoader$DepLoadInst:scanDepInfo:549]: Failed to load dependencies.info from ForgeMultipart-1.7.10-1.1.2.331-universal.jar as JSON
+[18:03:34] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: java.util.zip.ZipException: error in opening zip file
+[18:03:34] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.util.zip.ZipFile.open(Native Method)
+[18:03:34] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.util.zip.ZipFile.<init>(ZipFile.java:220)
+[18:03:34] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.util.zip.ZipFile.<init>(ZipFile.java:150)
+[18:03:34] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.util.zip.ZipFile.<init>(ZipFile.java:164)
+[18:03:34] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at thaumcraft.codechicken.core.launch.DepLoader$DepLoadInst.scanDepInfo(DepLoader.java:541)
+[18:03:34] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at thaumcraft.codechicken.core.launch.DepLoader$DepLoadInst.scanDepInfos(DepLoader.java:535)
+[18:03:34] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at thaumcraft.codechicken.core.launch.DepLoader$DepLoadInst.load(DepLoader.java:471)
+[18:03:34] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at thaumcraft.codechicken.core.launch.DepLoader.load(DepLoader.java:631)
+[18:03:34] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at thaumcraft.codechicken.core.launch.DepLoader.call(DepLoader.java:656)
+[18:03:34] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at thaumcraft.codechicken.core.launch.DepLoader.call(DepLoader.java:65)
+[18:03:34] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper.injectIntoClassLoader(CoreModManager.java:133)
+[18:03:34] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115)
+[18:03:34] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[18:03:34] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:03:34] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:03:34] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:03:34] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:03:34] [main/INFO]: Calling tweak class forestry.shade.javacheck.Java7Checker
+[18:03:35] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[18:03:35] [main/INFO]: [mjaroslav.mcmods.mjutils.gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hook into class cpw.mods.fml.common.Loader
+[18:03:35] [main/INFO]: [mjaroslav.mcmods.mjutils.gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Successfully injected 1 hook
+[18:03:35] [main/INFO]: [mjaroslav.mcmods.mjutils.gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Methods dictionary loaded in 72 ms
+[18:03:35] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:03:35] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[18:03:35] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[18:03:35] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[18:03:35] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[18:03:36] [main/INFO]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class bjf net.minecraft.client.multiplayer.WorldClient
+[18:03:36] [main/INFO]: [xaero.map.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.client.multiplayer.WorldClient
+[18:03:36] [main/INFO]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraftforge.client.GuiIngameForge net.minecraftforge.client.GuiIngameForge
+[18:03:36] [main/INFO]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class yz net.minecraft.entity.player.EntityPlayer
+[18:03:36] [main/INFO]: [xaero.map.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.entity.player.EntityPlayer
+[18:03:37] [main/INFO]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class bjk net.minecraft.client.entity.EntityClientPlayerMP
+[18:03:37] [main/INFO]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class blg net.minecraft.client.entity.AbstractClientPlayer
+[18:03:37] [main/INFO]: [xaero.map.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.client.entity.AbstractClientPlayer
+[18:03:37] [main/INFO]: func_146977_a(Lnet/minecraft/inventory/Slot;)V - Transformed
+[18:03:37] [main/INFO]: func_146977_a_original(Lnet/minecraft/inventory/Slot;)V - New Method
+[18:03:37] [main/INFO]: func_146977_a(Lnet/minecraft/inventory/Slot;)V - Invoke Virtual
+[18:03:38] [main/INFO]: used the old auth tlauncher service
+[18:03:38] [main/INFO]: Setting user: Resteres
+[18:03:40] [main/INFO]: [mjaroslav.mcmods.mjutils.gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hook into class net.minecraft.entity.projectile.EntityFishHook
+[18:03:40] [main/INFO]: [mjaroslav.mcmods.mjutils.gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Successfully injected 2 hooks
+[18:03:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: ModLoader
+[18:03:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: LightCache
+[18:03:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: BlockCoord
+[18:03:44] [Client thread/INFO]: [mjaroslav.mcmods.mjutils.gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hook into class net.minecraftforge.common.ForgeHooks
+[18:03:44] [Client thread/INFO]: [mjaroslav.mcmods.mjutils.gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Successfully injected 1 hook
+[18:03:45] [Client thread/INFO]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class bjb net.minecraft.client.network.NetHandlerPlayClient
+[18:03:45] [Client thread/INFO]: [xaero.map.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.client.network.NetHandlerPlayClient
+[18:03:45] [Client thread/INFO]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class apx net.minecraft.world.chunk.Chunk
+[18:03:45] [Client thread/INFO]: [xaero.map.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.world.chunk.Chunk
+[18:03:45] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.Loader
+[18:03:45] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.ModContainer
+[18:03:45] [Client thread/INFO]: LWJGL Version: 2.9.1
+[18:03:47] [Client thread/INFO]: [OptiFine] 
+[18:03:47] [Client thread/INFO]: [OptiFine] OptiFine_1.7.10_HD_U_E7
+[18:03:47] [Client thread/INFO]: [OptiFine] Build: 20180404-111312
+[18:03:47] [Client thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[18:03:47] [Client thread/INFO]: [OptiFine] Java: 1.8.0_51, Oracle Corporation
+[18:03:47] [Client thread/INFO]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[18:03:47] [Client thread/INFO]: [OptiFine] LWJGL: 2.9.1
+[18:03:47] [Client thread/INFO]: [OptiFine] OpenGL: NVIDIA GeForce GTX 1660/PCIe/SSE2, version 4.6.0 NVIDIA 560.94, NVIDIA Corporation
+[18:03:47] [Client thread/INFO]: [OptiFine] OpenGL Version: 4.6.0
+[18:03:47] [Client thread/INFO]: [OptiFine] Maximum texture size: 32768x32768
+[18:03:47] [Thread-8/INFO]: [OptiFine] Checking for new version
+[18:03:47] [Client thread/INFO]: [Shaders] ShadersMod version: 2.4.12
+[18:03:47] [Client thread/INFO]: [Shaders] OpenGL Version: 4.6.0 NVIDIA 560.94
+[18:03:47] [Client thread/INFO]: [Shaders] Vendor:  NVIDIA Corporation
+[18:03:47] [Client thread/INFO]: [Shaders] Renderer: NVIDIA GeForce GTX 1660/PCIe/SSE2
+[18:03:47] [Client thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[18:03:47] [Client thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[18:03:47] [Client thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[18:03:47] [Client thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[18:03:47] [Client thread/INFO]: [Shaders] Load ShadersMod configuration.
+[18:03:47] [Client thread/INFO]: [Shaders] Save ShadersMod configuration.
+[18:03:47] [Client thread/INFO]: [Shaders] No shaderpack loaded.
+[18:03:48] [Thread-8/INFO]: [OptiFine] Version found: E7
+[18:03:50] [Client thread/INFO]: Forge Mod Loader has detected optifine OptiFine_1.7.10_HD_U_E7, enabling compatibility features
+[18:03:50] [Client thread/INFO]: Could not load splash.properties, will create a default one
+[18:03:50] [Client thread/INFO]: [cpw.mods.fml.client.SplashProgress:start:188]: ---- Minecraft Crash Report ----
+// You're mean.
+
+Time: 14.11.26 18:03
+Description: Loading screen debug info
+
+This is just a prompt for computer specs to be printed. THIS IS NOT A ERROR
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 142996384 bytes (136 MB) / 268435456 bytes (256 MB) up to 10502537216 bytes (10016 MB)
+	JVM Flags: 7 total; -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Xmx9989M
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 560.94' Renderer: 'NVIDIA GeForce GTX 1660/PCIe/SSE2'
+[18:03:50] [Client thread/INFO]: Attempting early MinecraftForge initialization
+[18:03:50] [Client thread/INFO]: MinecraftForge v10.13.4.1614 Initialized
+[18:03:50] [Client thread/INFO]: Replaced 183 ore recipies
+[18:03:50] [Client thread/INFO]: Completed early MinecraftForge initialization
+[18:03:50] [Client thread/INFO]: [AppEng] Core Init
+[18:03:50] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[18:03:50] [Client thread/INFO]: Searching D:\.minecraft\versions\hbm spais_copy_1\mods for mods
+[18:03:50] [Client thread/INFO]: Also searching D:\.minecraft\versions\hbm spais_copy_1\mods\1.7.10 for mods
+[18:04:00] [Client thread/WARN]: Mod Avaritia is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.13
+[18:04:03] [Client thread/WARN]: Mod ForbiddenMagic is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.7.10-0.575
+[18:04:45] [Client thread/WARN]: Zip file ForgeMultipart-1.7.10-1.1.2.331-universal.jar failed to read properly, it will be ignored
+java.util.zip.ZipException: error in opening zip file
+	at java.util.zip.ZipFile.open(Native Method) ~[?:1.8.0_51]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:220) ~[?:1.8.0_51]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:150) ~[?:1.8.0_51]
+	at java.util.jar.JarFile.<init>(JarFile.java:166) ~[?:1.8.0_51]
+	at java.util.jar.JarFile.<init>(JarFile.java:130) ~[?:1.8.0_51]
+	at cpw.mods.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:41) [JarDiscoverer.class:?]
+	at cpw.mods.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at cpw.mods.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at cpw.mods.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:131) [ModDiscoverer.class:?]
+	at cpw.mods.fml.common.Loader.identifyMods(Loader.java:364) [Loader.class:?]
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:489) [Loader.class:?]
+	at cpw.mods.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:208) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:480) [bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[18:04:45] [Client thread/INFO]: Forge Mod Loader has identified 45 mods to load
+[18:04:51] [Client thread/INFO]: FML has found a non-mod file CodeChickenLib-1.7.10-1.1.3.141-universal.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[18:04:51] [Client thread/INFO]: FML has found a non-mod file ForgeMultipart-1.7.10-1.1.2.331-universal.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[18:04:51] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, appliedenergistics2-core, CodeChickenCore, NotEnoughItems, ThE-core, ThaumicTinkerer-preloader, xaerominimap_core, xaeroworldmap_core, appliedenergistics2, Automagy, Avaritia, BiblioCraft, DummyCore, ForbiddenMagic, Forestry, gravestone, gregtech, hbm, ic2additions, IC2, Mekanism, MekanismGenerators, mjutils, neresources, harvestcraft, simplerecipes, tcnodetracker, tc4tweak, Thaumcraft, thaumcraftneiplugin, thaumicdyes, thaumicbases, thaumicenergistics, ThaumicHorizons, thaumicinsurgence, ThaumicTinkerer, thaumores, tlauncher_custom_cape_skin, TWarden, Waila, XaeroMinimap, XaeroWorldMap, Baubles] at CLIENT
+[18:04:51] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, appliedenergistics2-core, CodeChickenCore, NotEnoughItems, ThE-core, ThaumicTinkerer-preloader, xaerominimap_core, xaeroworldmap_core, appliedenergistics2, Automagy, Avaritia, BiblioCraft, DummyCore, ForbiddenMagic, Forestry, gravestone, gregtech, hbm, ic2additions, IC2, Mekanism, MekanismGenerators, mjutils, neresources, harvestcraft, simplerecipes, tcnodetracker, tc4tweak, Thaumcraft, thaumcraftneiplugin, thaumicdyes, thaumicbases, thaumicenergistics, ThaumicHorizons, thaumicinsurgence, ThaumicTinkerer, thaumores, tlauncher_custom_cape_skin, TWarden, Waila, XaeroMinimap, XaeroWorldMap, Baubles] at SERVER
+[18:04:52] [Client thread/INFO]: Transforming class thaumcraft.common.Thaumcraft
+[18:04:52] [Client thread/INFO]: Transforming class thaumcraft.common.lib.research.ResearchManager
+[18:04:52] [Client thread/INFO]: Transforming class thaumcraft.client.fx.beams.FXBeamPower
+[18:04:52] [Client thread/INFO]: Transforming Class (thaumcraft.client.renderers.entity.RenderGolemBase)
+[18:04:52] [Client thread/INFO]: Transforming class thaumcraft.client.renderers.tile.TileChestHungryRenderer
+[18:04:52] [Client thread/INFO]: Transforming class thaumcraft.client.renderers.tile.TileEldritchCapRenderer
+[18:04:52] [Client thread/INFO]: Transforming class thaumcraft.client.renderers.tile.TileEldritchObeliskRenderer
+[18:04:52] [Client thread/INFO]: Transforming class thaumcraft.client.renderers.tile.TileRunicMatrixRenderer
+[18:04:52] [Client thread/INFO]: Transforming class thaumcraft.client.renderers.tile.TileManaPodRenderer
+[18:04:52] [Client thread/INFO]: Transforming class thaumcraft.client.renderers.tile.TileNodeRenderer
+[18:04:52] [Client thread/INFO]: Transforming class thaumcraft.client.renderers.tile.TileNodeConverterRenderer
+[18:04:52] [Client thread/INFO]: Transforming class thaumcraft.client.renderers.tile.TileNodeStabilizerRenderer
+[18:04:52] [Client thread/INFO]: Transforming class thaumcraft.client.renderers.tile.TileThaumatoriumRenderer
+[18:04:52] [Client thread/INFO]: Transforming class thaumcraft.client.renderers.tile.TileAlchemyFurnaceAdvancedRenderer
+[18:04:52] [Client thread/INFO]: Transforming class thaumcraft.common.blocks.BlockJar
+[18:04:52] [Client thread/INFO]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class bix net.minecraft.client.model.ModelRenderer
+[18:04:53] [Client thread/INFO]: Transforming Class (thaumcraft.api.aspects.Aspect)
+[18:04:53] [Client thread/INFO]: Transforming class thaumcraft.api.aspects.AspectList
+[18:04:53] [Client thread/INFO]: Transforming class thaumcraft.api.ThaumcraftApi
+[18:04:55] [Client thread/ERROR]: Skipping event FMLConstructionEvent and marking errored mod MekanismGenerators since required dependency Mekanism has errored
+[18:04:56] [Client thread/INFO]: Added configuration file for "mjutils".
+[18:04:56] [Client thread/INFO]: Looking for modules for "mjutils"
+[18:04:56] [Client thread/INFO]: Search finished, found 2 modules [ModuleMain, ModuleThaumcraft]
+[18:04:56] [Client thread/INFO]: Construction of "mjutils"
+[18:04:56] [Client thread/INFO]: Looking for configuration categories for "mjutils".
+[18:04:56] [Client thread/INFO]: Search finished, found 1 category.
+[18:04:56] [Client thread/INFO]: Transforming class thaumcraft.client.gui.GuiResearchTable
+[18:04:56] [Client thread/INFO]: Transforming class thaumcraft.client.gui.GuiResearchRecipe
+[18:04:56] [Client thread/INFO]: Transforming Class (thaumcraft.common.entities.golems.ItemGolemPlacer)
+[18:04:56] [Client thread/INFO]: Transforming Class (thaumcraft.common.entities.golems.ItemGolemBell)
+[18:04:56] [Client thread/INFO]: Transforming class thaumcraft.common.entities.golems.ItemGolemBell
+[18:04:56] [Client thread/INFO]: Transforming class thaumcraft.common.items.wands.ItemWandCasting
+[18:04:56] [Client thread/INFO]: Transforming class thaumcraft.api.crafting.InfusionRecipe
+[18:04:56] [Client thread/INFO]: Transforming class com.kentington.thaumichorizons.client.renderer.tile.TileEtherealShardRender
+[18:04:56] [Client thread/INFO]: Added configuration file for "thaumores".
+[18:04:56] [Client thread/INFO]: Looking for modules for "thaumores"
+[18:04:56] [Client thread/INFO]: Search finished, found 5 modules [ModuleBlocks, ModuleIntegrations, ModuleItems, ModuleWorld, ModuleThaumcraft]
+[18:04:56] [Client thread/INFO]: Construction of "thaumores"
+[18:04:56] [Client thread/INFO]: Looking for configuration categories for "thaumores".
+[18:04:56] [Client thread/INFO]: Search finished, found 1 category.
+[18:04:56] [Client thread/ERROR]: Fatal errors were detected during the transition from CONSTRUCTING to PREINITIALIZATION. Loading cannot continue
+[18:04:56] [Client thread/ERROR]: 
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UC	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) 
+	UC	FML{7.10.99.99} [Forge Mod Loader] (forge-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UC	Forge{10.13.4.1614} [Minecraft Forge] (forge-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UC	appliedenergistics2-core{rv3-beta-6} [Applied Energistics 2 Core] (minecraft.jar) 
+	UC	CodeChickenCore{1.0.7.48} [CodeChicken Core] (minecraft.jar) 
+	UC	NotEnoughItems{1.0.5.120} [Not Enough Items] (NotEnoughItems-1.7.10-1.0.5.120-universal.jar) 
+	UC	ThE-core{1.0.0.1} [Thaumic Energistics Core] (minecraft.jar) 
+	UC	ThaumicTinkerer-preloader{0.1} [Thaumic Tinkerer Core] (minecraft.jar) 
+	UC	xaerominimap_core{1.7.10-1.0} [XaeroMinimapCore] (minecraft.jar) 
+	UC	xaeroworldmap_core{1.7.10-1.0} [XaeroWorldMapCore] (minecraft.jar) 
+	UC	appliedenergistics2{rv3-beta-6} [Applied Energistics 2] (appliedenergistics2-rv3-beta-6.jar) 
+	UC	Baubles{1.0.1.10} [Baubles] (Baubles-1.7.10-1.0.1.10.jar) 
+	UC	Thaumcraft{4.2.3.5} [Thaumcraft] (Thaumcraft_1.7.10_4.2.3.5.jar) 
+	UC	Waila{1.5.10} [Waila] (Waila-1.5.10_1.7.10.jar) 
+	UC	Automagy{0.28.2} [Automagy] (Automagy-1.7.10-0.28.2.jar) 
+	UC	Avaritia{1.13} [Avaritia] (Avaritia-1.13.jar) 
+	UC	BiblioCraft{1.11.7} [BiblioCraft] (BiblioCraft[v1.11.7][MC1.7.10].jar) 
+	UC	DummyCore{2.0.1710.0.A} [DummyCore] (DummyCore-2.0.1710.0A.jar) 
+	UC	IC2{2.2.828-experimental} [IndustrialCraft 2] (industrialcraft-2-2.2.828-experimental.jar) 
+	UC	ThaumicTinkerer{unspecified} [Thaumic Tinkerer] (ThaumicTinkerer-2.5-1.7.10-164.jar) 
+	UC	ForbiddenMagic{1.7.10-0.575} [Forbidden Magic] (Forbidden Magic-1.7.10-0.575.jar) 
+	UC	Forestry{4.2.16.64} [Forestry for Minecraft] (forestry_1.7.10-4.2.16.64.jar) 
+	UC	gravestone{0.7.10.3} [Gravestone] (GraveStone Mod 0.7.10.3.jar) 
+	UC	harvestcraft{1.7.10j} [Pam's HarvestCraft] (Pam's HarvestCraft 1.7.10Lb.jar) 
+	UC	gregtech{MC1710} [GregTech] (gregtech-5.09.31-HBM-Isolated-RU-VanillaPreserve.jar) 
+	UC	hbm{1.0.27 BETA (5645)} [NTM: Space] (HBM-NTM-.1.0.27_X5645_H261.jar) 
+	UC	ic2additions{0.9.0} [IC2 Additions] (ic2additions1.7.10-0.9.0.jar) 
+	UE	Mekanism{9.1.1} [Mekanism] (Mekanism-1.7.10-9.1.1.1031.jar) 
+	UE	MekanismGenerators{9.1.1} [MekanismGenerators] (MekanismGenerators-1.7.10-9.1.1.1031.jar) 
+	UC	mjutils{1.6.1} [MJUtils] (mjutils-1.6.1.jar) 
+	UC	neresources{0.1.0.ManuallyBuilt} [Not Enough Resources] (NotEnoughResources-1.7.10-0.1.0-128.jar) 
+	UC	simplerecipes{1.7.10a} [Pam's Simple Recipes] (Pam's Simple Recipes 1.7.10a.jar) 
+	UC	tcnodetracker{1.1.2} [TC Node Tracker] (tcnodetracker-1.7.10-1.1.2.jar) 
+	UC	tc4tweak{1.5.48} [TC4 Tweak] (Thaumcraft4Tweaks-1.5.48.jar) 
+	UC	thaumcraftneiplugin{@VERSION@} [Thaumcraft NEI Plugin] (thaumcraftneiplugin-1.7.10-1.7a.jar) 
+	UC	thaumicdyes{1.10.5} [Thaumic Dyes] (Thaumic-Dyes-[1.7.10] 1.10.5-0.jar) 
+	UC	thaumicbases{1.3.1710.2} [Thaumic Bases] (ThaumicBases-1.3.1710.4.jar) 
+	UC	thaumicenergistics{1.1.3.0} [Thaumic Energistics] (thaumicenergistics-1.1.3.0.jar) 
+	UC	ThaumicHorizons{1.8.28} [ThaumicHorizons] (ThaumicHorizons-1.8.28-GT50931-fixed.jar) 
+	UC	thaumicinsurgence{0.2.6} [Thaumic Insurgence] (thaumicinsurgence-0.2.6.jar) 
+	UC	thaumores{1.6.0} [ThaumOres] (thaumores-1.6.0.jar) 
+	UC	tlauncher_custom_cape_skin{1.0} [TLSkinCape] (tlskincape1.7.10-1.4.jar) 
+	UC	TWarden{1.1.1} [Thaumic Warden] (TWarden-1.1.1.jar) 
+	UC	XaeroMinimap{21.10.44} [Xaero's Minimap] (Xaeros_Minimap_21.10.44_Forge_1.7.10.jar) 
+	UC	XaeroWorldMap{1.14.1.33} [Xaero's World Map] (XaerosWorldMap_1.14.1.33_Forge_1.7.10.jar) 
+[18:04:56] [Client thread/ERROR]: The following problems were captured during this phase
+[18:04:56] [Client thread/ERROR]: Caught exception from Mekanism
+java.lang.NoClassDefFoundError: codechicken/multipart/BlockMultipart
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_51]
+	at java.lang.Class.forName(Class.java:348) ~[?:1.8.0_51]
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:440) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119) [LoadController.class:?]
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:513) [Loader.class:?]
+	at cpw.mods.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:208) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:480) [bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.ClassNotFoundException: codechicken.multipart.BlockMultipart
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_51]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_51]
+	... 34 more
+Caused by: java.lang.NullPointerException
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_51]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_51]
+	... 34 more
+[18:04:58] [Client thread/INFO]: [net.minecraft.client.Minecraft:func_71377_b:349]: ---- Minecraft Crash Report ----
+// I bet Cylons wouldn't have this problem.
+
+Time: 14.11.26 18:04
+Description: There was a severe problem during mod loading that has caused the game to fail
+
+cpw.mods.fml.common.LoaderException: java.lang.NoClassDefFoundError: codechicken/multipart/BlockMultipart
+	at cpw.mods.fml.common.LoadController.transition(LoadController.java:163)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:544)
+	at cpw.mods.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:208)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:480)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878)
+	at net.minecraft.client.main.Main.main(SourceFile:148)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+Caused by: java.lang.NoClassDefFoundError: codechicken/multipart/BlockMultipart
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:348)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:440)
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:513)
+	... 10 more
+Caused by: java.lang.ClassNotFoundException: codechicken.multipart.BlockMultipart
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 34 more
+Caused by: java.lang.NullPointerException
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182)
+	... 36 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 849567352 bytes (810 MB) / 1207959552 bytes (1152 MB) up to 10502537216 bytes (10016 MB)
+	JVM Flags: 7 total; -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Xmx9989M
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v9.05 FML v7.10.99.99 Minecraft Forge 10.13.4.1614 Optifine OptiFine_1.7.10_HD_U_E7 45 mods loaded, 45 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UC	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) 
+	UC	FML{7.10.99.99} [Forge Mod Loader] (forge-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UC	Forge{10.13.4.1614} [Minecraft Forge] (forge-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UC	appliedenergistics2-core{rv3-beta-6} [Applied Energistics 2 Core] (minecraft.jar) 
+	UC	CodeChickenCore{1.0.7.48} [CodeChicken Core] (minecraft.jar) 
+	UC	NotEnoughItems{1.0.5.120} [Not Enough Items] (NotEnoughItems-1.7.10-1.0.5.120-universal.jar) 
+	UC	ThE-core{1.0.0.1} [Thaumic Energistics Core] (minecraft.jar) 
+	UC	ThaumicTinkerer-preloader{0.1} [Thaumic Tinkerer Core] (minecraft.jar) 
+	UC	xaerominimap_core{1.7.10-1.0} [XaeroMinimapCore] (minecraft.jar) 
+	UC	xaeroworldmap_core{1.7.10-1.0} [XaeroWorldMapCore] (minecraft.jar) 
+	UC	appliedenergistics2{rv3-beta-6} [Applied Energistics 2] (appliedenergistics2-rv3-beta-6.jar) 
+	UC	Baubles{1.0.1.10} [Baubles] (Baubles-1.7.10-1.0.1.10.jar) 
+	UC	Thaumcraft{4.2.3.5} [Thaumcraft] (Thaumcraft_1.7.10_4.2.3.5.jar) 
+	UC	Waila{1.5.10} [Waila] (Waila-1.5.10_1.7.10.jar) 
+	UC	Automagy{0.28.2} [Automagy] (Automagy-1.7.10-0.28.2.jar) 
+	UC	Avaritia{1.13} [Avaritia] (Avaritia-1.13.jar) 
+	UC	BiblioCraft{1.11.7} [BiblioCraft] (BiblioCraft[v1.11.7][MC1.7.10].jar) 
+	UC	DummyCore{2.0.1710.0.A} [DummyCore] (DummyCore-2.0.1710.0A.jar) 
+	UC	IC2{2.2.828-experimental} [IndustrialCraft 2] (industrialcraft-2-2.2.828-experimental.jar) 
+	UC	ThaumicTinkerer{unspecified} [Thaumic Tinkerer] (ThaumicTinkerer-2.5-1.7.10-164.jar) 
+	UC	ForbiddenMagic{1.7.10-0.575} [Forbidden Magic] (Forbidden Magic-1.7.10-0.575.jar) 
+	UC	Forestry{4.2.16.64} [Forestry for Minecraft] (forestry_1.7.10-4.2.16.64.jar) 
+	UC	gravestone{0.7.10.3} [Gravestone] (GraveStone Mod 0.7.10.3.jar) 
+	UC	harvestcraft{1.7.10j} [Pam's HarvestCraft] (Pam's HarvestCraft 1.7.10Lb.jar) 
+	UC	gregtech{MC1710} [GregTech] (gregtech-5.09.31-HBM-Isolated-RU-VanillaPreserve.jar) 
+	UC	hbm{1.0.27 BETA (5645)} [NTM: Space] (HBM-NTM-.1.0.27_X5645_H261.jar) 
+	UC	ic2additions{0.9.0} [IC2 Additions] (ic2additions1.7.10-0.9.0.jar) 
+	UE	Mekanism{9.1.1} [Mekanism] (Mekanism-1.7.10-9.1.1.1031.jar) 
+	UE	MekanismGenerators{9.1.1} [MekanismGenerators] (MekanismGenerators-1.7.10-9.1.1.1031.jar) 
+	UC	mjutils{1.6.1} [MJUtils] (mjutils-1.6.1.jar) 
+	UC	neresources{0.1.0.ManuallyBuilt} [Not Enough Resources] (NotEnoughResources-1.7.10-0.1.0-128.jar) 
+	UC	simplerecipes{1.7.10a} [Pam's Simple Recipes] (Pam's Simple Recipes 1.7.10a.jar) 
+	UC	tcnodetracker{1.1.2} [TC Node Tracker] (tcnodetracker-1.7.10-1.1.2.jar) 
+	UC	tc4tweak{1.5.48} [TC4 Tweak] (Thaumcraft4Tweaks-1.5.48.jar) 
+	UC	thaumcraftneiplugin{@VERSION@} [Thaumcraft NEI Plugin] (thaumcraftneiplugin-1.7.10-1.7a.jar) 
+	UC	thaumicdyes{1.10.5} [Thaumic Dyes] (Thaumic-Dyes-[1.7.10] 1.10.5-0.jar) 
+	UC	thaumicbases{1.3.1710.2} [Thaumic Bases] (ThaumicBases-1.3.1710.4.jar) 
+	UC	thaumicenergistics{1.1.3.0} [Thaumic Energistics] (thaumicenergistics-1.1.3.0.jar) 
+	UC	ThaumicHorizons{1.8.28} [ThaumicHorizons] (ThaumicHorizons-1.8.28-GT50931-fixed.jar) 
+	UC	thaumicinsurgence{0.2.6} [Thaumic Insurgence] (thaumicinsurgence-0.2.6.jar) 
+	UC	thaumores{1.6.0} [ThaumOres] (thaumores-1.6.0.jar) 
+	UC	tlauncher_custom_cape_skin{1.0} [TLSkinCape] (tlskincape1.7.10-1.4.jar) 
+	UC	TWarden{1.1.1} [Thaumic Warden] (TWarden-1.1.1.jar) 
+	UC	XaeroMinimap{21.10.44} [Xaero's Minimap] (Xaeros_Minimap_21.10.44_Forge_1.7.10.jar) 
+	UC	XaeroWorldMap{1.14.1.33} [Xaero's World Map] (XaerosWorldMap_1.14.1.33_Forge_1.7.10.jar) 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 560.94' Renderer: 'NVIDIA GeForce GTX 1660/PCIe/SSE2'
+	AE2 Version: beta rv3-beta-6 for Forge 10.13.4.1448
+	TC4Tweak signing signature: 473C3A397676978FF4877ABA2D57860DDA20E2FC, Built by: glease
+	OptiFine Version: OptiFine_1.7.10_HD_U_E7
+	Render Distance Chunks: 12
+	Mipmaps: 4
+	Anisotropic Filtering: 1
+	Antialiasing: 0
+	Multitexture: false
+	Shaders: null
+	OpenGlVersion: 4.6.0 NVIDIA 560.94
+	OpenGlRenderer: NVIDIA GeForce GTX 1660/PCIe/SSE2
+	OpenGlVendor: NVIDIA Corporation
+	CpuCount: 6
+[18:04:58] [Client thread/INFO]: [net.minecraft.client.Minecraft:func_71377_b:359]: #@!@# Game crashed! Crash report saved to: #@!@# D:\.minecraft\versions\hbm spais_copy_1\crash-reports\crash-2026-11-14_18.04.57-client.txt
