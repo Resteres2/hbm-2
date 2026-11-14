@@ -1,0 +1,202 @@
+[17:56:15] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:56:15] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:56:15] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[17:56:15] [main/INFO]: Forge Mod Loader version 7.99.40.1614 for Minecraft 1.7.10 loading
+[17:56:15] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at D:\.minecraft\runtime\jre-legacy\windows\jre-legacy
+[17:56:15] [main/INFO]: [AppEng] Core Init
+[17:56:16] [main/WARN]: The coremod codechicken.core.launch.CodeChickenCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: java.lang.RuntimeException: A download error occured
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at codechicken.core.launch.DepLoader$DepLoadInst.download(DepLoader.java:354)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at codechicken.core.launch.DepLoader$DepLoadInst.load(DepLoader.java:480)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at codechicken.core.launch.DepLoader$DepLoadInst.loadDeps(DepLoader.java:466)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at codechicken.core.launch.DepLoader$DepLoadInst.load(DepLoader.java:449)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at codechicken.core.launch.DepLoader.load(DepLoader.java:584)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at codechicken.core.launch.CodeChickenCorePlugin.<init>(CodeChickenCorePlugin.java:47)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.Class.newInstance(Class.java:442)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:501)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:389)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:221)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:90)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupClient(FMLLaunchHandler.java:67)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.configureForClientLaunch(FMLLaunchHandler.java:34)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.launcher.FMLTweaker.injectIntoClassLoader(FMLTweaker.java:126)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: Caused by: java.net.SocketTimeoutException: Read timed out
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1889)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1884)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.security.AccessController.doPrivileged(Native Method)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:1883)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1456)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.security.AccessController.doPrivileged(Native Method)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at codechicken.core.launch.DepLoader$DepLoadInst.download(DepLoader.java:341)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	... 19 more
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: Caused by: java.net.SocketTimeoutException: Read timed out
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.net.SocketInputStream.socketRead0(Native Method)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.net.SocketInputStream.read(SocketInputStream.java:170)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:704)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:647)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1535)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.security.AccessController.doPrivileged(Native Method)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.protocol.http.HttpURLConnection.getHeaderField(HttpURLConnection.java:2942)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.net.URLConnection.getHeaderFieldLong(URLConnection.java:629)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.net.URLConnection.getContentLengthLong(URLConnection.java:501)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.net.URLConnection.getContentLength(URLConnection.java:485)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at codechicken.core.launch.DepLoader$DepLoadInst.download(DepLoader.java:340)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	... 19 more
+[17:56:47] [main/ERROR]: An error occurred trying to configure the minecraft home at D:\.minecraft\versions\hbm spais_copy_1 for Forge Mod Loader
+java.lang.RuntimeException: A download error occured
+	at codechicken.core.launch.DepLoader$DepLoadInst.download(DepLoader.java:354) ~[DepLoader$DepLoadInst.class:?]
+	at codechicken.core.launch.DepLoader$DepLoadInst.load(DepLoader.java:480) ~[DepLoader$DepLoadInst.class:?]
+	at codechicken.core.launch.DepLoader$DepLoadInst.loadDeps(DepLoader.java:466) ~[DepLoader$DepLoadInst.class:?]
+	at codechicken.core.launch.DepLoader$DepLoadInst.load(DepLoader.java:449) ~[DepLoader$DepLoadInst.class:?]
+	at codechicken.core.launch.DepLoader.load(DepLoader.java:584) ~[DepLoader.class:?]
+	at codechicken.core.launch.CodeChickenCorePlugin.<init>(CodeChickenCorePlugin.java:47) ~[CodeChickenCore-1.7.10-1.0.7.48-universal.jar:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_51]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) ~[?:1.8.0_51]
+	at java.lang.Class.newInstance(Class.java:442) ~[?:1.8.0_51]
+	at cpw.mods.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:501) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:389) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:221) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:90) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupClient(FMLLaunchHandler.java:67) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.configureForClientLaunch(FMLLaunchHandler.java:34) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.common.launcher.FMLTweaker.injectIntoClassLoader(FMLTweaker.java:126) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_51]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1889) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1884) ~[?:1.8.0_51]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:1883) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1456) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430) ~[?:1.8.0_51]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_51]
+	at java.security.AccessController.doPrivileged(AccessController.java:713) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429) ~[?:1.8.0_51]
+	at codechicken.core.launch.DepLoader$DepLoadInst.download(DepLoader.java:341) ~[DepLoader$DepLoadInst.class:?]
+	... 19 more
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.read(SocketInputStream.java:170) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.read(SocketInputStream.java:141) ~[?:1.8.0_51]
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246) ~[?:1.8.0_51]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286) ~[?:1.8.0_51]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345) ~[?:1.8.0_51]
+	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:704) ~[?:1.8.0_51]
+	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:647) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1535) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430) ~[?:1.8.0_51]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_51]
+	at java.security.AccessController.doPrivileged(AccessController.java:713) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getHeaderField(HttpURLConnection.java:2942) ~[?:1.8.0_51]
+	at java.net.URLConnection.getHeaderFieldLong(URLConnection.java:629) ~[?:1.8.0_51]
+	at java.net.URLConnection.getContentLengthLong(URLConnection.java:501) ~[?:1.8.0_51]
+	at java.net.URLConnection.getContentLength(URLConnection.java:485) ~[?:1.8.0_51]
+	at codechicken.core.launch.DepLoader$DepLoadInst.download(DepLoader.java:340) ~[DepLoader$DepLoadInst.class:?]
+	... 19 more
+[17:56:47] [main/ERROR]: Unable to launch
+java.lang.RuntimeException: A download error occured
+	at codechicken.core.launch.DepLoader$DepLoadInst.download(DepLoader.java:354) ~[DepLoader$DepLoadInst.class:?]
+	at codechicken.core.launch.DepLoader$DepLoadInst.load(DepLoader.java:480) ~[DepLoader$DepLoadInst.class:?]
+	at codechicken.core.launch.DepLoader$DepLoadInst.loadDeps(DepLoader.java:466) ~[DepLoader$DepLoadInst.class:?]
+	at codechicken.core.launch.DepLoader$DepLoadInst.load(DepLoader.java:449) ~[DepLoader$DepLoadInst.class:?]
+	at codechicken.core.launch.DepLoader.load(DepLoader.java:584) ~[DepLoader.class:?]
+	at codechicken.core.launch.CodeChickenCorePlugin.<init>(CodeChickenCorePlugin.java:47) ~[CodeChickenCore-1.7.10-1.0.7.48-universal.jar:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_51]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) ~[?:1.8.0_51]
+	at java.lang.Class.newInstance(Class.java:442) ~[?:1.8.0_51]
+	at cpw.mods.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:501) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:389) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:221) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:90) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupClient(FMLLaunchHandler.java:67) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.configureForClientLaunch(FMLLaunchHandler.java:34) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.common.launcher.FMLTweaker.injectIntoClassLoader(FMLTweaker.java:126) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_51]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1889) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1884) ~[?:1.8.0_51]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:1883) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1456) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430) ~[?:1.8.0_51]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_51]
+	at java.security.AccessController.doPrivileged(AccessController.java:713) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429) ~[?:1.8.0_51]
+	at codechicken.core.launch.DepLoader$DepLoadInst.download(DepLoader.java:341) ~[DepLoader$DepLoadInst.class:?]
+	... 19 more
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.read(SocketInputStream.java:170) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.read(SocketInputStream.java:141) ~[?:1.8.0_51]
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246) ~[?:1.8.0_51]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286) ~[?:1.8.0_51]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345) ~[?:1.8.0_51]
+	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:704) ~[?:1.8.0_51]
+	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:647) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1535) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430) ~[?:1.8.0_51]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_51]
+	at java.security.AccessController.doPrivileged(AccessController.java:713) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getHeaderField(HttpURLConnection.java:2942) ~[?:1.8.0_51]
+	at java.net.URLConnection.getHeaderFieldLong(URLConnection.java:629) ~[?:1.8.0_51]
+	at java.net.URLConnection.getContentLengthLong(URLConnection.java:501) ~[?:1.8.0_51]
+	at java.net.URLConnection.getContentLength(URLConnection.java:485) ~[?:1.8.0_51]
+	at codechicken.core.launch.DepLoader$DepLoadInst.download(DepLoader.java:340) ~[DepLoader$DepLoadInst.class:?]
+	... 19 more
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: cpw.mods.fml.relauncher.FMLSecurityManager$ExitTrappedException
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.relauncher.FMLSecurityManager.checkPermission(FMLSecurityManager.java:25)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.SecurityManager.checkExit(SecurityManager.java:761)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.Runtime.exit(Runtime.java:107)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.System.exit(System.java:971)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:138)
+[17:56:47] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
